@@ -11,7 +11,7 @@
 ### consent
 - Can my child be medically examined without my consent?
 - Since when is a loud noise the only sign of resistance and lack of consent?
-- 
+
 ### convention
 - They defied/flouted/broke with convention by giving up their jobs and becoming self-sufficient.
 
@@ -107,6 +107,9 @@ If an event is cancelled outright, there's no question about it being reschedule
 ### petition
 - We recently presented the government with a petition signed by 4500 people.
 
+### preliminary
+> : Something that comes first in order to prepare for the main part.
+> 
 ### priority
 - “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
 
@@ -144,5 +147,5 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTA1NzMxNV19
+eyJoaXN0b3J5IjpbMTUxOTQ2Njg4Ml19
 -->
