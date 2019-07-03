@@ -108,8 +108,9 @@ If an event is cancelled outright, there's no question about it being reschedule
 - We recently presented the government with a petition signed by 4500 people.
 
 ### preliminary
-> : Something that comes first in order to prepare for the main part.
-> 
+> : something that comes first in order to prepare for the main part.
+: a game that is played before to decide whice players will be allowed to continue playing.
+
 ### priority
 - “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
 
@@ -147,5 +148,5 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTQ2Njg4Ml19
+eyJoaXN0b3J5IjpbMTM5MjEyMjQxOF19
 -->
