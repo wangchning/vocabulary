@@ -11,6 +11,7 @@
 ### consent
 - Can my child be medically examined without my consent?
 - Since when is a loud noise the only sign of resistance and lack of consent?
+- 
 ### convention
 - They defied/flouted/broke with convention by giving up their jobs and becoming self-sufficient.
 
@@ -127,6 +128,7 @@ If an event is cancelled outright, there's no question about it being reschedule
 ### scope
 - I'm afraid that problem is beyond the scope of my lecture.
 - We would now like to broaden the scope of the enquiry and look at more general matters.
+- 
 ### sophisticated &emsp; /sə'fɪstɪkeɪtɪd/
 - Honeybees use one of the most sophisticated communication systems of any insect.
 
@@ -141,3 +143,6 @@ If an event is cancelled outright, there's no question about it being reschedule
 ## UVWXYZ
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQxOTA1NzMxNV19
+-->
