@@ -118,6 +118,12 @@ If an event is cancelled outright, there's no question about it being reschedule
 ### priority
 - “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
 
+### preserve
+> When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
+- To do whatever needs to be done to preserve this last and greatest bastion of freedom.
+- To preserve a friend three things are required: to honour him present, praise him absent, and assist him in his necessities.
+- To acquire wealth is difficult, to preserve it more difficult, but to spend it wisely most difficult of all. 
+
 ### practical
 - Qualification are important but practical experience is always an advantage.
 
@@ -152,5 +158,6 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOT
+IxMjI0MThdfQ==
 -->
