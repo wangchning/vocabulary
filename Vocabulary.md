@@ -1,4 +1,8 @@
 ## A
+### analogous
+> Analogous is a term used in biology to refer to body parts that have a similar function but differ in structure, such as the wings of a bird and the wings of an airplane. 
+- This proposal was analogous to/with the one we discussed at the last meeting.
+- The stock market recorded a 0.4% annual increase that was roughly analogous to results in the late 1960s.
 
 
 ## B
@@ -148,5 +152,5 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
