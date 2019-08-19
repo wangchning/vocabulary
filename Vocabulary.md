@@ -77,7 +77,7 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 - It is surprising how lenient we can be to the defects or failings of those who minister to our vanity!
 
 ## M 
-### morale    &emsp;  `` ``   /mə`rɑːl/
+### morale    &emsp;    /mə`rɑːl/
 - The worker's moral was so low that they constantly comolained about the job. Only going home could cheer them up. 
 
 ## N
@@ -158,6 +158,6 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjI4OTQwNSwtMTQzNzcxMzIwNiwxNj
-k0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbODk1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OT
+QwNDA1OCwxMzkyMTIyNDE4XX0=
 -->
