@@ -84,7 +84,7 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 ### negation
 > If your friend thinks you owe hism five dollars and you say that you don't, your statement is a gegation.
 
-> For the negation, `\nmid* from *amssymb* is better than *\not\mid* that doesn't give a good result.
+> For the negation, `\nmid` from `amssymb` is better than `\not\mid` that doesn't give a good result.
 
 |Satement|Negation|
 |-|-|
@@ -170,6 +170,6 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDIwNDg4Myw4OTU1ODczMjUsLTE0Mz
-c3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
+eyJoaXN0b3J5IjpbLTE4MzE4Nzc5MjMsODk1NTg3MzI1LC0xND
+M3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
 -->
