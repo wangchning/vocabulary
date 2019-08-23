@@ -81,6 +81,18 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 - The worker's moral was so low that they constantly comolained about the job. Only going home could cheer them up. 
 
 ## N
+### negation
+> If your friend thinks you owe hism five dollars and you say that you don't, your statement is a gegation.
+
+> For the negation, `\nmid* from *amssymb* is better than *\not\mid* that doesn't give a good result.
+
+|Satement|Negation|
+|-|-|
+|$A$ or $B$|Not $A$ and not $B$|
+|$A$ and $B$|not $A$ or not $B$|
+|if $A$, then $B$|$A$ and not $B$|
+|For all $x$, $A(x)$|There exist $x$ such that not $A(x)$|
+|There exists $x$ such that $A(x)$|For every $x$, not $A(x)$|
 
 ## O
 ### obligation
@@ -158,6 +170,6 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OT
-QwNDA1OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbMTA4NDIwNDg4Myw4OTU1ODczMjUsLTE0Mz
+c3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
