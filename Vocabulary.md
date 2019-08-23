@@ -157,7 +157,7 @@ When you preserve something, you keep it as it is now, without a decline in qual
 ## Q
 
 ## R
-### reminisce  ` ` ` ` ` `   /"remi'nis/
+### reminisce  &emsp; /"remi'nis/
 - On their wedding anniversary, Lenny and Jean reminisced about their first date.
 - The grandparents sat there, reminiscing all afternoon.
 
@@ -181,7 +181,7 @@ When you preserve something, you keep it as it is now, without a decline in qual
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzE4MTM5NSwtMTgzMTg3NzkyMyw4OT
-U1ODczMjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0
-MThdfQ==
+eyJoaXN0b3J5IjpbMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NT
+U4NzMyNSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQx
+OF19
 -->
