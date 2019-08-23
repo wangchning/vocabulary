@@ -1,6 +1,16 @@
 ## A
+### amount
+ : develop to 
+ - This idea will never amount to anything.
+ - With his intelligence, he should amount to something when he grows up.
+
+:be tantamount or equivalent to
+ - Her action amounted to a rebellion.
+ - What this guy was doing cleary did amount to persecution.
+ - It is stated differently but amounts to the same thing.
+ 
 ### analogous
-> Analogous is a term used in biology to refer to body parts that have a similar function but differ in structure, such as the wings of a bird and the wings of an airplane. 
+Analogous is a term used in biology to refer to body parts that have a similar function but differ in structure, such as the wings of a bird and the wings of an airplane. 
 - This proposal was analogous to/with the one we discussed at the last meeting.
 - The stock market recorded a 0.4% annual increase that was roughly analogous to results in the late 1960s.
 
@@ -73,7 +83,7 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 
 ## L
 ### lenient
-> If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient.
+If you're not overly strict, and you show tolerance and mercy when someone does something wrong, you're being lenient.
 - It is surprising how lenient we can be to the defects or failings of those who minister to our vanity!
 
 ## M 
@@ -170,6 +180,7 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE4Nzc5MjMsODk1NTg3MzI1LC0xND
-M3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbLTExNjQ4MzE2MDcsLTE4MzE4Nzc5MjMsOD
+k1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIy
+NDE4XX0=
 -->
