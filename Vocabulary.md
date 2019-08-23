@@ -112,16 +112,16 @@ For the negation, `\nmid` from `amssymb` is better than `\not\mid` that doesn't 
 - When I heard that the government had oppressed the workers, I supressed my angers.
 
 ### outlook
->
-: a place where you can look out over a wide area; also a view from such a place
-the likely future situation
-: the way that a person thinks about things
+\: a place where you can look out over a wide area; also a view from such a place the likely future situation
+
+\: the way that a person thinks about things
 - I have a good outlook from my bedroom.
 - The students all seemed to have the same outlook.
 - Despite out differences in outlook, we got along together very well.
 
 ### outright
 If you do something outright, you do it in a wholehearted, unrestrited way. If you declare outright that you're never eating another cupcake, that's the end of that. If you eat one anyway, you told an *outright lie*.
+
 If an event is cancelled outright, there's no question about it being rescheduled, and if you buy a new car outright, you pay for it all at once, instead of making monthly payments.
 - The child's outright refusal to put on his shoes exasperated his babysitter.
 - The drive and all three passengers were killed outright.
@@ -135,14 +135,14 @@ If an event is cancelled outright, there's no question about it being reschedule
 - We recently presented the government with a petition signed by 4500 people.
 
 ### preliminary
-> : something that comes first in order to prepare for the main part.
-: a game that is played before to decide whice players will be allowed to continue playing.
+ : something that comes first in order to prepare for the main part.
+\: a game that is played before to decide whice players will be allowed to continue playing.
 
 ### priority
 - “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
 
 ### preserve
-> When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
+When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
 - To do whatever needs to be done to preserve this last and greatest bastion of freedom.
 - To preserve a friend three things are required: to honour him present, praise him absent, and assist him in his necessities.
 - To acquire wealth is difficult, to preserve it more difficult, but to spend it wisely most difficult of all. 
@@ -181,7 +181,7 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQwNDAzMDMsLTE4MzE4Nzc5MjMsOD
-k1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIy
-NDE4XX0=
+eyJoaXN0b3J5IjpbLTc0NzE4MTM5NSwtMTgzMTg3NzkyMyw4OT
+U1ODczMjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0
+MThdfQ==
 -->
