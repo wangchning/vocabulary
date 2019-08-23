@@ -92,9 +92,9 @@ If you're not overly strict, and you show tolerance and mercy when someone does 
 
 ## N
 ### negation
-> If your friend thinks you owe hism five dollars and you say that you don't, your statement is a gegation.
+If your friend thinks you owe hism five dollars and you say that you don't, your statement is a gegation.
 
-> For the negation, `\nmid` from `amssymb` is better than `\not\mid` that doesn't give a good result.
+For the negation, `\nmid` from `amssymb` is better than `\not\mid` that doesn't give a good result.
 
 |Satement|Negation|
 |-|-|
@@ -112,8 +112,9 @@ If you're not overly strict, and you show tolerance and mercy when someone does 
 - When I heard that the government had oppressed the workers, I supressed my angers.
 
 ### outlook
-> : a place where you can look out over a wide area; also a view from such a place
-: the likely future situation
+>
+: a place where you can look out over a wide area; also a view from such a place
+the likely future situation
 : the way that a person thinks about things
 - I have a good outlook from my bedroom.
 - The students all seemed to have the same outlook.
@@ -180,7 +181,7 @@ If an event is cancelled outright, there's no question about it being reschedule
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ4MzE2MDcsLTE4MzE4Nzc5MjMsOD
+eyJoaXN0b3J5IjpbLTE2NDQwNDAzMDMsLTE4MzE4Nzc5MjMsOD
 k1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIy
 NDE4XX0=
 -->
