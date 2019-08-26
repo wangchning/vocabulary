@@ -22,6 +22,10 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 
 
 ## C
+### coarse
+Coarse can mean rough to the touch or vulgar. If you lick your dinner plate, or wipe your nose on your sleeve, you'd be coarse — that is, unrefined, boorish, and downright vulgar. 
+- She never wears clothes made of coarse material.
+
 ### confine
 - Let's confine our discussion to the matter in question, please!
 
@@ -184,7 +188,7 @@ When you preserve something, you keep it as it is now, without a decline in qual
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzI1NDc4OCwzNzQyODAzODksLTE4Mz
-E4Nzc5MjMsODk1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OTQwNDA1
-OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbLTkzNjcyMzIwNiwtODUzMjU0Nzg4LDM3ND
+I4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODczMjUsLTE0Mzc3MTMy
+MDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
