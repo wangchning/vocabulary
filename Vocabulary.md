@@ -18,6 +18,13 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 : to study or examine something in detail, in order to discover more about it
 - This software is used to analyse marketing data.
 
+### argument
+An argument is a disagreenment between two or more people, but it can also be a statement backed by evidence, like your argument that your school doesn't need a dress code.
+- Never go to bed on an argument.
+
+Origin. From the 14th-century French *argument* meaning "statements and reasoning in support of a proposition".
+- I found his argument pretty convincing.
+
 ## B
 ### backed
 - His claims are not backed by any scientific evidence.
@@ -211,7 +218,7 @@ The root of section is the Latin word *sect*, which means "cut". Think __dissect
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDA2MjYwMywtODUzMjU0Nzg4LDM3ND
+eyJoaXN0b3J5IjpbMTM3NTgzNDQ2NiwtODUzMjU0Nzg4LDM3ND
 I4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODczMjUsLTE0Mzc3MTMy
 MDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
