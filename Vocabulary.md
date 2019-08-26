@@ -14,6 +14,9 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 - This proposal was analogous to/with the one we discussed at the last meeting.
 - The stock market recorded a 0.4% annual increase that was roughly analogous to results in the late 1960s.
 
+### analyse
+: to study or examine something in detail, in order to discover more about it
+- This software is used to analyse marketing data.
 
 ## B
 
@@ -181,7 +184,7 @@ When you preserve something, you keep it as it is now, without a decline in qual
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NT
-U4NzMyNSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQx
-OF19
+eyJoaXN0b3J5IjpbLTg1MzI1NDc4OCwzNzQyODAzODksLTE4Mz
+E4Nzc5MjMsODk1NTg3MzI1LC0xNDM3NzEzMjA2LDE2OTQwNDA1
+OCwxMzkyMTIyNDE4XX0=
 -->
