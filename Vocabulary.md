@@ -203,6 +203,10 @@ The root of section is the Latin word *sect*, which means "cut". Think __dissect
 - I'm afraid that problem is beyond the scope of my lecture.
 - We would now like to broaden the scope of the enquiry and look at more general matters.
 
+
+### springiness
+> : the elasticity of something that can be stretched and returns to its original length
+
 ### sophisticated &emsp; /sə'fɪstɪkeɪtɪd/
 - Honeybees use one of the most sophisticated communication systems of any insect.
 
@@ -218,7 +222,7 @@ The root of section is the Latin word *sect*, which means "cut". Think __dissect
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTgzNDQ2NiwtODUzMjU0Nzg4LDM3ND
+eyJoaXN0b3J5IjpbMTAxNzE5NDc4NSwtODUzMjU0Nzg4LDM3ND
 I4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODczMjUsLTE0Mzc3MTMy
 MDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
