@@ -19,6 +19,10 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 - This software is used to analyse marketing data.
 
 ## B
+### backed
+- His claims are not backed by any scientific evidence.
+- The house is backed by fields.
+- The project is being backed by a letter of credit from Lasalle Bank.
 
 
 ## C
@@ -207,7 +211,7 @@ The root of section is the Latin word *sect*, which means "cut". Think __dissect
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MTM5NjA0LC04NTMyNTQ3ODgsMzc0Mj
-gwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMyNSwtMTQzNzcxMzIw
-NiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbMTg2NDA2MjYwMywtODUzMjU0Nzg4LDM3ND
+I4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODczMjUsLTE0Mzc3MTMy
+MDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
