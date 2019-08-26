@@ -26,6 +26,9 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 Coarse can mean rough to the touch or vulgar. If you lick your dinner plate, or wipe your nose on your sleeve, you'd be coarse — that is, unrefined, boorish, and downright vulgar. 
 - She never wears clothes made of coarse material.
 
+### commute
+From the Latin word *commutare*, meaning "to change altogether".
+
 ### confine
 - Let's confine our discussion to the matter in question, please!
 
@@ -56,6 +59,11 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 ### compelling
 - She found his story so compelling that she had forgotten to drink wine.
 - The evidence was so comopelling that he felt constrained to accept it.
+
+### cusp
+- If you're on the cusp of manhood, you're not quite grouwn up, but you're definitely not a little boy anymore either.
+- You'll see lots of cusps in Gothic churches -- a point where two arches meet, or where decorative curves meet to form a point.
+- The little points that stick out on the surface of your teeth that are flat on top -- the ones you use for grinding -- are also called cusps.
 
 ## D
 ### demand
@@ -199,7 +207,7 @@ The root of section is the Latin word *sect*, which means "cut". Think __dissect
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzU4MTE3NiwtODUzMjU0Nzg4LDM3ND
-I4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODczMjUsLTE0Mzc3MTMy
-MDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
+eyJoaXN0b3J5IjpbNDI0MTM5NjA0LC04NTMyNTQ3ODgsMzc0Mj
+gwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMyNSwtMTQzNzcxMzIw
+NiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
