@@ -58,6 +58,12 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 - The evidence was so comopelling that he felt constrained to accept it.
 
 ## D
+### demand
+> When you demand something, you want action now.
+- The workers demand for better conditions of work.
+- Cold drinks are in demand in the summer.
+- Cold weather demands warm coats and boots.
+
 ### disguise
 - He disguised himself by wearing a false beard.
 - He put on a large hat and glasses as a disguise and hope no one would recognize him.
@@ -162,6 +168,8 @@ When you preserve something, you keep it as it is now, without a decline in qual
 - The department is responsible for the provision of residential care services.
 
 ## Q
+### retraction
+A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
 
 ## R
 ### reminisce  &emsp; /"remi'nis/
@@ -169,10 +177,13 @@ When you preserve something, you keep it as it is now, without a decline in qual
 - The grandparents sat there, reminiscing all afternoon.
 
 ## S
+### section
+The root of section is the Latin word *sect*, which means "cut". Think __dissect__ ("cut into pieces"), or __bisect__ ("cut in two").
+
 ### scope
 - I'm afraid that problem is beyond the scope of my lecture.
 - We would now like to broaden the scope of the enquiry and look at more general matters.
-- 
+
 ### sophisticated &emsp; /sə'fɪstɪkeɪtɪd/
 - Honeybees use one of the most sophisticated communication systems of any insect.
 
@@ -188,7 +199,7 @@ When you preserve something, you keep it as it is now, without a decline in qual
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjcyMzIwNiwtODUzMjU0Nzg4LDM3ND
+eyJoaXN0b3J5IjpbMTc1MzU4MTE3NiwtODUzMjU0Nzg4LDM3ND
 I4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODczMjUsLTE0Mzc3MTMy
 MDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ==
 -->
