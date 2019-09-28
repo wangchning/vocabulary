@@ -133,6 +133,10 @@ Origin: Late 19th century from Greek *barus* 'heavy' + -centric
 * On such a basis the system could not, however, be very largely developed.
 * Accordingly I ask, how much time is needed to account for the facts before us on the basis of uniformity?
 
+### boil down
+- You'll get a better, more condensed flavor when you boil down the stock.
+- Your essay is far too long. Please try to cut out any superfluous text and boil it down to about 10 pages.
+- If we could boil this problem down to its essentials, we might be able to solve it.
 
 ### broadly
 - A vector bundle is, broadly speaking, a family of vector spaces which is continuously indexed by a topological space. An important example is the tangent bundle of a manifold.
@@ -271,6 +275,12 @@ People are naturally given to change, so there are deviations in critical though
 
 - Thus nature gives the hint, man acts upon it, and by the law of inheritance exaggerates the deviation.
 
+### dictum
+"You are what you eat" is a dictum, and so is a low requiring you to curb your dog.
+
+Dictum dates from 16th Century. It descended from a Latin word that means "something said".
+- He follows the famous American dictum "Don't ge mad, get even."
+
 ### dim-witted
 - No, I thought, President Trump was boorish, dim-witted, inarticulate, incoherent, narcissistic and insensitive.
 > Someone who's dim-witted isn't very smart. So you might want to keep your thoughts about your dim-witted cousin to yourself.
@@ -289,6 +299,11 @@ Something that's dispensable isn't necessary--you don't really need it. Your vin
 - Although she had the dual advantages of wealth and beauty, she did not have a happy life.
 - This room serves a dual purpose --- it's both a study and guest room.
 
+### dynamic
+> : always active or changing
+> : having or showing a lot of energy.
+- She's young and dynamic and will be a great addition to the team.
+
 ## E
 ### efface
 Teachers get annoyed to find that someone has effaced the blackboard --- even the part clearly marked, "Do Not Erase!"
@@ -296,6 +311,11 @@ Teachers get annoyed to find that someone has effaced the blackboard --- even th
 ### eligible
 - Neither your dog nor your friend from Australia is eligible to run for president of the United States, but you might be!
 - If you get good grades, volunteer at the hospital, play varsity sports, and write for your school paper, you might be eligible for a college scholarship.
+
+### essentially
+- In spite of your faults, you're essentially a good person.
+
+Notice the tie between essentially and the word 'essence', referring to the very core of something. As an adverb, then, essentially refers to something's nature.
 
 ### evolution and revolution
 *Evolution* means the process of developing by gradual changes while *revolution* states a new development in an industry that changes everything drastically.
@@ -498,6 +518,10 @@ When something reaches its full level of development, it has achieved maturity.
 - The investment reaches maturity after ten years.
 - Humans experience a delayed maturity; we arrive at all stages of life later than other mammals.
 
+### mindset
+If you have an environmentalist mindset, you probably bring your own bags to the grocery store.
+
+- It's extraordinary how hard it is to change the mindset of the public and the press.
 
 
 
@@ -939,7 +963,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzc4Mjk1MiwxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbMTAyNjc3MzcyNywxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
