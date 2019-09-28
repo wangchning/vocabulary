@@ -271,6 +271,12 @@ Now degeneration refers to anything in a state of decline, such as a friendship 
 * The children were raised in deplorable conditions.
 * This room is in deplorable order. You have deplorable manners!
 
+### determine
+- After checking paws and hands, you determine that it's not the dog that ate your candy stash, but your kid sister.
+- Further information is required to determine the correct answer in any given instance.
+- The fear of violence should not determine what one does or does not say.
+- She is not able to determine the exact line of her descent, but the blood of three races mingles in her veins.
+
 ### deviation &emsp; /'diːvɪeɪʃən/
 Anything that varies from the accepted norm or standard is called a deviation. It is common in math and science, but it can refer to anything that differs from the expected.
 
@@ -321,6 +327,9 @@ Teachers get annoyed to find that someone has effaced the blackboard --- even th
 - In spite of your faults, you're essentially a good person.
 
 Notice the tie between essentially and the word 'essence', referring to the very core of something. As an adverb, then, essentially refers to something's nature.
+
+### etymology
+The study of the origin of words and the way in which their meanings have changed throughout history.
 
 ### evolution and revolution
 *Evolution* means the process of developing by gradual changes while *revolution* states a new development in an industry that changes everything drastically.
@@ -461,6 +470,9 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 - The decorations in the house are in perfect keeping with her personality.
 - The modern furniture was out of keeping with the old house.
 
+### inappropriate &emsp; /ɪnə'prəuprɪət/
+- But Joanna merely smiled, ant then startled Enid by giving her an utterly inappropriate hug.
+
 ### indelible
 - The blood had left an indelible mark on her shirt.
 
@@ -543,6 +555,11 @@ If you have an environmentalist mindset, you probably bring your own bags to the
 
 ### morale    &emsp;    /mə`rɑːl/
 - The worker's moral was so low that they constantly comolained about the job. Only going home could cheer them up. 
+
+### mug
+Mug is a funny word that could represent a cup, your face, or even what you do when you nob someone. And, if you mug someone for their mug, you may end up getting a mug shot taken of your guilty face.
+
+A mug is an informal vessel for drinking coffee or tea, as opposed to a china tea cup or a demitasse espresso cup, for example.
 
 ### multifaceted
 Diamonds are usually cut to be multifaceted, that is, with many angled flat surfaces, becauses this increases their ability to reflect light.
@@ -659,6 +676,9 @@ Another word for you job is your post.
 : relating to the peried of time immediately after a baby has been born
 **antenatal** (US **prenatal**)
 
+### postulate &emsp; /'pɒstʃʊleɪt/ verb &emsp; /'pɒstʃʊlət/ none
+If you postulate something, you suggest it as the basis for a theory, argument, or calculation, or assume that it is the basis.
+
 ### practical
 - Qualification are important but practical experience is always an advantage.
 
@@ -760,6 +780,9 @@ Recursion is the process of repeating items in a self-similar way. Recursion can
 * She reluctantly agreed to step down as managing director.
 * Reluctandly, he did what I asked.
 * He was most *indignant* that we had been allowed to come this far and reluctantly admitted that our pass was good.
+
+### remedy
+If you're having trouble sleeping, the first remedy you might try is a hot bath and a cup of chamomile tea. If that doesn't help, you may resort to something stronger, like a sedative.
 
 ### reminisce  &emsp; /"remi'nis/
 - On their wedding anniversary, Lenny and Jean reminisced about their first date.
@@ -986,7 +1009,8 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjM5MjI2MSwxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbLTE1ODIzNzU0MTcsMTAxNzE5NDc4NSwtOD
+UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
+MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
+==
 -->
