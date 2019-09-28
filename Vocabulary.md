@@ -4,6 +4,27 @@ Use to express a conclusion for which there is stronger evidence than for a prev
 - If you are wrong then, a fortiori, so am I.
 - If he can afford a luxury yacht, then a fortiori he can afford to pay his debts.
 
+### address
+1. Mr king sought to address those fears when he spoke at the meeting. 
+- We listened to the President's inaugural address on the radio.
+- He is due to address a conference on human rights next week.
+- Thoughout the book we have addressed ourselves to the problem of ethics.
+**Origin** from Middle English as a verb in the senses 'set upright' and 'guide, direct'. From Old French, based on Latin *ad* - 'towards' + *directus*
+2. When you are a student and you want to address your teacher, it's generally safer to call her Ms. and not address her by her first name, Esmeralda.
+- I heard him address her as darling.
+- The Duchess should be addressed as Your Grace.
+3.
+- Bordin asked permission of the Court to address a few questions to the witness.
+- The two foreign ministers did not address each other directly when they last met.
+4.
+- Go boldly up to him, and invent some pretence to address him, or wait in this angle of deep shade, and see what would happen next?
+- Left and right think the way to address racial strife is through policy.
+- This is a very difficult problem to address at long range.
+5. 
+- It contained no note, but the address was in Winnie's handwriting.
+- I've addressed the letter, but it still needs a stamp.
+- What is the correct way to address her?
+
 ### Accordingly
 * If you learn that your so-called best friend is spreading nasty rumors about you, *act accordingly* and stop being her friend.
 * You were hungry, accordingly you ate.
@@ -438,6 +459,16 @@ A function, transformation, or operator that is euqal to its inverse, i.e. which
 - The play is a *tragicomedy* about the terrifying irrationality of love.
 - The apparent irrationality of the markets' reactions is completely understandable.
 
+### irrelevancy
+- Why was she wasting her time with these irrelevancies?
+- Sympathy is an irrelevance --- we need practical help.
+
+### issue
+One copy of "Celebrities are Cool" magazine is a issue. It is issued, or put out, by the publisher. You and your mother may argue over the issue, or topic, of whether or not you should read it.
+
+- The ground for refusing to permit him to continues his address was stated to be irrelevancy to the question at issue.
+- The fight grew more fierce, and for a long time the issue remained doubtful.
+
 ## J
 
 ## K
@@ -593,11 +624,17 @@ Preamble comes from the Latin praeambulus which means "walking before". And that
 - I had a presentiment that he represented a danger to me.
 - The young girl had had a presentiment of impending evil, but her wish o postpone the journey had benn overruled.
 
+### presently
+If you tell your sister that you'll be at her house presently, you mean that you're on your way. 
+
+You might say that the cookies you just put in the oven will be done presently, or describe how you were so sleepy last night that you opened a book and presently fell asleep, before you could read a single page.
+
 ### preserve
 When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
 - To do whatever needs to be done to preserve this last and greatest bastion of freedom.
 - To preserve a friend three things are required: to honour him present, praise him absent, and assist him in his necessities.
 - To acquire wealth is difficult, to preserve it more difficult, but to spend it wisely most difficult of all. 
+
 
 ### prevail
 - And did reason prevail over emotion?
@@ -759,6 +796,24 @@ Driving a car is more sophisticated than riding a bike. Going to a symphony is c
 - This is the sought-after maximal ideal.
 - At the age of 17 she is already one of Hollywood's most sought-after actresses.
 
+### stable
+If you needed advice, you'd probably go to your most stable friend, the one least likely to act crazy or be easily upset.
+
+1. 
+- When the horse is stolen, you lock the stable door.
+- Having issued this second edition of his interesting narrative, the landlord enters the stable.
+
+2.
+- The United States is now the only really powerful nation to have eased into stable democratic government from the ground up.
+- Trotting, prancing, and snorting as they came down the lane, they settled down once they were in the stable lot.
+
+3. 
+- By a base B of a topological space X we mean a set of open subsets of X, so that any open subset of X is a union of open subsets in B, and that B is stable by finite intersection.
+
+### stimulant  &emsp;  /ˈstɪm.jə.lənt/ 
+A stimulant is a drug that speeds up your body or an event that spurs you to action. Both types of stimulant get you going. When Pearl Harbor was attacked, it was a stimulant that drove America into World War II.
+- Because cigarettes can be either a stimulant or a relaxant, the game has two modes.
+
 ### subject    &emsp;  /səb'jekt/
 
 ### submersion
@@ -849,7 +904,8 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NTAyMTMzLDEwMTcxOTQ3ODUsLTg1Mz
-I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
-LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbLTEwOTQyNzI0NTYsMTAxNzE5NDc4NSwtOD
+UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
+MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
+==
 -->
