@@ -139,7 +139,19 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 - You'll see lots of cusps in Gothic churches -- a point where two arches meet, or where decorative curves meet to form a point.
 - The little points that stick out on the surface of your teeth that are flat on top -- the ones you use for grinding -- are also called cusps.
 
+### customary 
+- It is customary to offer a drink or a snack to gusests.
+- For once, she dropped her customary reserve and became quite lively.
+
 ## D
+### deficiency
+A deficiency is an insufficient amount of something. If you feel sluggish and tired all day, you might have an iron deficiency, meaning you aren't eating enough iron-rich foods.
+
+### degenerate
+When something degenerates, it gets worse in some way, like a house that's slowly sinking in the mud. This process of decline is called degeneration. The word is from the Latin word *degenerare* which means "to be infeior to one's ancestors."
+
+Now degeneration refers to anything in a state of decline, such as a friendship that was strong and now barely exists.
+
 ### demand
 > When you demand something, you want action now.
 - The workers demand for better conditions of work.
@@ -150,9 +162,42 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 - He disguised himself by wearing a false beard.
 - He put on a large hat and glasses as a disguise and hope no one would recognize him.
 
+### dual
+- Everything he says has a dual meaning.
+- Although she had the dual advantages of wealth and beauty, she did not have a happy life.
+- This room serves a dual purpose --- it's both a study and guest room.
+
 ## E
+### efface
+Teachers get annoyed to find that someone has effaced the blackboard --- even the part clearly marked, "Do Not Erase!"
+
+### exclusive
+To exclude means basically to close the door in order to keep someone or something out. An "exclusive" offer is supposedly made to only a few people. If a product is being sold exclusively by one store, you won't be able to find it anywhere else.
+
+Exclusive's antonym is *inclusive*; an inclusive policy, an inclusive church, or an inclusive approach is one that aims to include as many people as possible.
+
+### excursion
+: From Latin 'excurrere' meaning *to run out*
+
+An excursion is taken more for pleasure than for practical reasons. 
+
+- We had been preparing for our summer excursion some time, but were unable to get away from Paris before the 18th of July.
+
+### Exhilaration
+> : The felling of lively and cheerful joy.
+- There was a sense of exhilaration about being alone on the beach.
 
 ## F
+### factor
+The word factor doubles as both noun and verb. A factor is an element that influences something, like many factors that contribute to global warming. To factor means to consider something relevant when making a decision or conclusion, like factoring in the weather and traffic when figuring out how long the drive will be. And if it's not relevant? Then you factor it out.
+[comment]: # (math)
+### factor through
+(category theory) Said of a morphism: to be equal to a composition of two morphisms, one of which is the given morphism (that is being said to be "factored through"). 
+
+### figurative
+When speech or writing is not literal, it is figurative, like when you say you have a ton of homework.
+
+In art, figure means "human or animal form," so a figurative drawing might show horses running across a field.
 ### forfeit
 - He argues that murderers forfeit theit own right to life.
 - He exerted himself to save the souls of those whose bodies were forfeit by reason of relapse, and succeeded in all cases but one.
@@ -304,7 +349,8 @@ But it no longer happens or is no longer true now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODEyNTgwNSwxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbLTExMzA2NjcxMjcsMTAxNzE5NDc4NSwtOD
+UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
+MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
+==
 -->
