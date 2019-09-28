@@ -144,6 +144,11 @@ Counterfeit money, goods or documents are not genuine, but have been made to loo
 - For once, she dropped her customary reserve and became quite lively.
 
 ## D
+### Deduce and Reduce
+> To deduce is to figure something out based  on what you already know. 
+
+> You reduce something when you *lessen* its volume, size, or degree. That's why we say when someone goes on a diet, it's because they want to reduce; it's a polite way of suggesting they need to drop pounds and become a smaller size.
+
 ### deficiency
 A deficiency is an insufficient amount of something. If you feel sluggish and tired all day, you might have an iron deficiency, meaning you aren't eating enough iron-rich foods.
 
@@ -158,9 +163,21 @@ Now degeneration refers to anything in a state of decline, such as a friendship 
 - Cold drinks are in demand in the summer.
 - Cold weather demands warm coats and boots.
 
+### deviation &emsp; /'diːvɪeɪʃən/
+Anything that varies from the accepted norm or standard is called a deviation. It is common in math and science, but it can refer to anything that differs from the expected.
+
+Deviation in nature is an important part of evolution.
+
+People are naturally given to change, so there are deviations in critical thought as well as in math and science. Those deviations often account for the creativity that gives rise to new ideas, or theories, or even musical styles.
+
+- Thus nature gives the hint, man acts upon it, and by the law of inheritance exaggerates the deviation.
+
 ### disguise
 - He disguised himself by wearing a false beard.
 - He put on a large hat and glasses as a disguise and hope no one would recognize him.
+
+### dispensable
+Something that's dispensable isn't necessary--you don't really need it. Your vintage typewriter is cool, but it's also dispensable, since you can type and print with your laptop.
 
 ### dual
 - Everything he says has a dual meaning.
@@ -203,6 +220,10 @@ The word factor doubles as both noun and verb. A factor is an element that influ
 [comment]: # (math)
 ### factor through
 (category theory) Said of a morphism: to be equal to a composition of two morphisms, one of which is the given morphism (that is being said to be "factored through"). 
+
+### filter
+The Medieval Latin root is filtrum, or "felt," which was used by early chemists to strain liquids, especially when purifying water.
+
 
 ### figurative
 When speech or writing is not literal, it is figurative, like when you say you have a ton of homework.
@@ -307,6 +328,24 @@ A node is a point of connection. Technically, a traffic intersection is a node s
 You can find a node on a plant: it's the swelling on the stem marking the spot where leaves emerge.
 
 Another type os node is a round swelling. Some are abnormal, like a node you discover on your knee, but others, such as a lymph node, are a normal part of your immune system.
+
+### not to mention
+- He's one of the kindest and most intelligent, not to mention handsome, men I know.
+
+### not to say
+> :literally *X, not to say Y* means not quite Y, but it is mostly used to mean even Y.
+> "X, not to say/mention Y" is often used to strengthen the first claim/concept. 
+- Sarah is awful at her job! She never arrives on time, not to say/mention how little effort she makes when she is here.
+> If I say "X. That is not to say Y", it means that even though my saying X might imply Y, that is not the case.
+- Sarah is terrible at her job. That is not to say that I think she should be fired; perhaps further training would be a good idea, though.
+> :Used to introduce a stronger way of describing something.
+:and possibly even
+- A difficult, not to say impossible, task.
+- He was impolite, not to say downright rude!
+- - He is very difficult, not to say impossible, to understand.
+- His behavior is boorish, not to say contemptible.
+- It would be unwise, not to say stupid, to leave your first job after only six months.
+- I think it would be an incredibly ill-advised, not to say downright foolish, not to accept his offer at this point in time.
 
 ### notion
 - They dad different notions of right and wrong.
@@ -528,7 +567,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzIyMTcxOCwxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbMTM0NzM4Mjg0MywxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
