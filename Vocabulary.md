@@ -36,6 +36,15 @@ An argument is a disagreenment between two or more people, but it can also be a 
 Origin. From the 14th-century French *argument* meaning "statements and reasoning in support of a proposition".
 - I found his argument pretty convincing.
 
+### attack
+- Google is attacking the problem with its considerable resources and creativity.
+
+### attend
+If you **attend** a political rally, you'll want to **attend to** what the politicians have to say. When you **take attendance**, you are checking which students have chosen to attend class, i.e. who is **in attendance**.
+
+
+
+
 ### attribute
 : From Latin 'attribuere'. 'ad' means *to*, 'tribuere' means *give* or bestow'
 - The interviewer asked me what I consider to be my best attribute.
@@ -127,6 +136,11 @@ When a muscle in your body tenses up painfully, it's a cramp.
 
 ### counterfeit
 Counterfeit money, goods or documents are not genuine, but have been made to look exactly like genuine ones.
+
+### counterpart
+If you leap tall buildings in a sigle bound for the Des Moines branch of your corporation, then your Metropolis counterpart might be Superman. If you play soccer, your counterpart is the player on the other team who plays the same position.
+- Eleanor is a girl with a thousand virtues, each of which she expects to find in counterpart in the man to whom she is _affianced_.
+- The next day was a counterpart of its _forerunner_, except that it got more on my nerves.
 
 ### contrive
 - Somehow she contrived to get tickets for the concert.
@@ -328,8 +342,12 @@ When something reaches its full level of development, it has achieved maturity.
 ### morale    &emsp;    /mə`rɑːl/
 - The worker's moral was so low that they constantly comolained about the job. Only going home could cheer them up. 
 
+### multifaceted
+Diamonds are usually cut to be multifaceted, that is, with many angled flat surfaces, becauses this increases their ability to reflect light.
+
 ### mutilate
 If you drop a cantaloupe into a wood chipper, you'll mutilate that poor melon, with chunks of fruit and rind flying everywhere.
+
 
 ## N
 ### negation
@@ -570,6 +588,11 @@ Driving a car is more sophisticated than riding a bike. Going to a symphony is c
 ### tomfoolery  &emsp;  /ˌtɒmˈfuː.lər.i/
 Tomfoolery is foolishness. Staring a food fight in a cafeteria is an example of tomfoolery.
 
+### tone
+A newspaper article should be objective, but a poem can bring up all kinds of emotions, depending on the tone.
+- There's no need to take that tone with me --- it's not my fault we're late.
+- This treatment helps tone the body, firm up muscles and tighten the skin.
+
 ### twee
 Twee originated in baby talk as an alteration of sweet. Nowadays, we use twee for things that have passed beyond agreeable and into the realm of cloying.
 - The movie was a bit twee for my taste.
@@ -608,7 +631,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2OTcwMjQzLDEwMTcxOTQ3ODUsLTg1Mz
-I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
-LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbMjEzOTE4NDE0NSwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
