@@ -228,9 +228,17 @@ Back in the 1600s, this verb meant "make stronger."
 
 ### implement
 Apply the noun implement when you want to use a fancy word for "tool." A knife and fork are implements for handling food.
-: to start using a plan or systerm
+> : to start using a plan or systerm
 - The changes to the national health system will be implemented next year.
 - Due to high costs, the program was never fully implemented.
+
+### indignant
+*Indignant* refers to anger based on unworthy or unfair behavior rather than merely injury to one's own interests. 
+- If you discovered that a teacher gave ten extra points on a test to all students who sat in the front row, you'd be indignant.
+- You may be angry, even furious, if someone shoves you, but you are indignant if the shove is directed at someone weak or helpless. 
+
+### involution
+A function, transformation, or operator that is euqal to its inverse, i.e. which gives the identity when applied to itself.
 
 ### inventory
 - We made an inventory of the library's collection.
@@ -248,8 +256,21 @@ If you're not overly strict, and you show tolerance and mercy when someone does 
 - It is surprising how lenient we can be to the defects or failings of those who minister to our vanity!
 
 ## M 
+### maturity &emsp; /məˈtʃʊə.rə.ti/
+When something reaches its full level of development, it has achieved maturity.
+- Maturity is not when we start speaking big things. It is when we start understanding small things.
+- How long does it take for the chicks to grow to maturity?
+- The investment reaches maturity after ten years.
+- Humans experience a delayed maturity; we arrive at all stages of life later than other mammals.
+
+
+
+
 ### morale    &emsp;    /mə`rɑːl/
 - The worker's moral was so low that they constantly comolained about the job. Only going home could cheer them up. 
+
+### mutilate
+If you drop a cantaloupe into a wood chipper, you'll mutilate that poor melon, with chunks of fruit and rind flying everywhere.
 
 ## N
 ### negation
@@ -264,6 +285,18 @@ For the negation, `\nmid` from `amssymb` is better than `\not\mid` that doesn't 
 |if $A$, then $B$|$A$ and not $B$|
 |For all $x$, $A(x)$|There exist $x$ such that not $A(x)$|
 |There exists $x$ such that $A(x)$|For every $x$, not $A(x)$|
+
+### node
+A node is a point of connection. Technically, a traffic intersection is a node since multiple roads connect at that point.
+
+You can find a node on a plant: it's the swelling on the stem marking the spot where leaves emerge.
+
+Another type os node is a round swelling. Some are abnormal, like a node you discover on your knee, but others, such as a lymph node, are a normal part of your immune system.
+
+### notion
+- They dad different notions of right and wrong.
+- She had a vague notion about what happened.
+- I have long since abandened the notion that higher education is essential to either success or happiness. Hot houses of learning do not always grow anything edible.
 
 ## O
 ### obligation
@@ -292,8 +325,29 @@ If an event is cancelled outright, there's no question about it being reschedule
 - Although there is no overt hostility, black and white students do not mix much.
 
 ## P
+### pathological
+> : (of a person) unable to control part of their behaviour; unreasonable
+- I've got a pathological fear of heights.
+- Anthony's a pathological liar.
+- Someone with a pathological compulsion for cleanliness might scrub the floors for hours every night.
+- If a person has obsessive-compulsive disorder, his or her repetitive actions are pathological.
+
 ### petition
 - We recently presented the government with a petition signed by 4500 people.
+
+
+
+### preamble
+Preamble comes from the Latin praeambulus which means "walking before". And that's what a preamble does --- it "walks" before a speech, often explaining what's coming.
+- The controversy has arisen over the text of the preamble to the unification treaty.
+- 'I would like you to return to the villa as soon as possible,' she said without preamble.
+- The longer your preamble, the less likely it is you'll get to the end.
+- That's a long preamble to my subject, but you will see the relevance presently.
+
+### Preliminary
+: Something that comes first in order to prepare for the main part
+
+: a game that is played first to decide which player will be allowed to continue playing
 
 ### preliminary
  : something that comes first in order to prepare for the main part.
@@ -374,7 +428,7 @@ But it no longer happens or is no longer true now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTY2Nzg4NSwxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbMTE3OTAwODE1MywxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
