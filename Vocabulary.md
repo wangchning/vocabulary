@@ -33,6 +33,9 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 : to study or examine something in detail, in order to discover more about it
 - This software is used to analyse marketing data.
 
+### applied
+Something applied is practical, having to do with real-world situations and problems. Applied chemistry, applied physics, and the applied sciences as a whole have to do with real-world issues. The opposite of applied is *theoretical* which is only concerned with ideas.
+
 ### argument
 An argument is a disagreenment between two or more people, but it can also be a statement backed by evidence, like your argument that your school doesn't need a dress code.
 - Never go to bed on an argument.
@@ -349,6 +352,11 @@ Genesis is the very start of something, its bitrh.
 ## H
 
 ## I
+### if
+: even though
+- an interesting if untentable argument
+- It was a hot, if windy day.
+
 ### immersion
 - Total immersion in a videogame is almost like living another life.
 
@@ -374,6 +382,18 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 ### inherently
 Some people enjoy your inherently cheerful nature, but it drives other people crazy because they find you annoyingly perky.
 
+### introduce
+- Let me introduce myself: my name is John Smish.
+- If your roommate never cleans up after herself, you might try to introduce some new housekeeping policies. Or, introduce yourself to someone who is looking for a new roommate.
+- A new word processor was introduced.
+- The government is having to introduce some difficult changes, particularly in moving over to a market economy.
+
+### invincible
+: impossible to defeat or overcome
+- The loss proved that the team is not invincible.
+- He was thoroughly persuaded of this invincibility, that he felt there was no occasion to prove it.
+- Gibraltar may be strong, but ideas are impregnable, and bestow on the hero their invincibility.
+
 ### involution
 A function, transformation, or operator that is euqal to its inverse, i.e. which gives the identity when applied to itself.
 
@@ -382,6 +402,11 @@ A function, transformation, or operator that is euqal to its inverse, i.e. which
 - Inventories at both stores were low.
 
 **Remark:** laundry, library, dictionary 
+
+### irrationality
+: the fact of not using reason or clear thinking
+- The play is a *tragicomedy* about the terrifying irrationality of love.
+- The apparent irrationality of the markets' reactions is completely understandable.
 
 ## J
 
@@ -614,6 +639,11 @@ Recursion is the process of repeating items in a self-similar way. Recursion can
 ### retraction
 A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
 
+### revisit
+- I can't wait to revisit New York city -- I didn't get to see the Statue of Liberty this time!
+You'll find this verb used even more often to mean "consider again, or from a different perspective."
+- We need to revisit this proposal as soon as the budget is clearer.
+
 ### revolutionize
 : to completely change something so that it is much better
 - Newton's discoveries revolutionized physics.
@@ -775,7 +805,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzQwNzc4MSwxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbLTMzNDE3NTQxMiwxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
