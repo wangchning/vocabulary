@@ -192,6 +192,11 @@ Controversy means a quarrel (often public) involving strong disagreement, but th
 ### convention
 - They defied/flouted/broke with convention by giving up their jobs and becoming self-sufficient.
 
+### coordinate
+> Are your ducks in a row? Well, then you know what it means to coordinate something. And if you know exactly where to drop the bomb, then you know that the coordinates are.
+
+- She'll show you how to coordinate pattern and colors.
+
 ### corresponding
 - Being of a nature more or less sensitive to atmospheric influences, I feel a corresponding gloominess.
 - It is as false a stimulant as opium of alcohol, and leaves a orresponding mark.
@@ -427,6 +432,14 @@ Genesis is the very start of something, its bitrh.
 - They believe the soul is immortal, grounding this belief on the Divine nature of the human spirit. 
 
 ## H
+### handwavy
+- The math professor only gave a partial description of the proof as she used handwaving to get through the most difficult part and told the students to study the remained of the proof at home.
+
+Hand wavy comes from the magician's technique of waving their hands around to draw attention away from the actions behind the magic trick.
+
+### have/get your ducks in a row
+: to be well-organized, prepared, and up-to-date
+- We need to have our ducks in a row to ensure that there are no problems at home while we're gone on our trip.
 
 ## I
 ### if
@@ -511,6 +524,9 @@ If you're not overly strict, and you show tolerance and mercy when someone does 
 - It is surprising how lenient we can be to the defects or failings of those who minister to our vanity!
 
 ## M 
+### make-up
+A special examination for a student who has been absent from or has failed a previous examination.
+
 ### maturity &emsp; /məˈtʃʊə.rə.ti/
 When something reaches its full level of development, it has achieved maturity.
 - Maturity is not when we start speaking big things. It is when we start understanding small things.
@@ -625,6 +641,10 @@ If an event is cancelled outright, there's no question about it being reschedule
 - Someone with a pathological compulsion for cleanliness might scrub the floors for hours every night.
 - If a person has obsessive-compulsive disorder, his or her repetitive actions are pathological.
 
+### pending
+If something is supposed to happen but hasn't happened yet, it is pending, like the pending snowstorm that has everyone scrambling to the store for bread and milk.
+- Sales of the drug have been stopped, pending further research.
+
 ### petition
 - We recently presented the government with a petition signed by 4500 people.
 
@@ -707,6 +727,9 @@ Protrude means to stick out. A gravestone protrudes from the ground, a shelf pro
 * Shortly after returning home, it was discovered that the children did, in fact, have significant medical and psychiatric problems.
 * Do I understand, Doctor Chalmers, that you would be willing to submit to psychiatric examination?
 > note: a medical problem is in contrast to surgical problem.
+
+### puncture
+The hardest thing about puncture is knowing how to spell it - remember that there's a c in the middle, and you'll probably get it right.
 
 ## Q
 
@@ -963,7 +986,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjc3MzcyNywxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbMTgzMjM5MjI2MSwxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
