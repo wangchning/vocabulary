@@ -336,6 +336,9 @@ An expense is a cost, but you can also use this word to mean the figurative cost
 * But more expository than expansive, "Jerusalem" is better at sketching Byron and his merry band of outlaws that in setting them in dramatic motion over three protracted acts.
 * He is the Boogeyman, the underworld's "Baba Yaga," a man of few words; expository dialogue isn't his strongest means of communication.
 
+### extensive
+When your friend knows every single place and time that his favorite band has played any given song, he has extensive knowledge of that band.
+- The Sylow theorems gives extensive information about the structure of abelian groups.
 
 
 ## F
@@ -344,6 +347,9 @@ The word factor doubles as both noun and verb. A factor is an element that influ
 [comment]: # (math)
 ### factor through
 (category theory) Said of a morphism: to be equal to a composition of two morphisms, one of which is the given morphism (that is being said to be "factored through"). 
+
+### fetch
+To fetch something is to go and get it. "Go fetch!" you might shout after your dog while throwing a stick into the yard.
 
 ### filter
 The Medieval Latin root is filtrum, or "felt," which was used by early chemists to strain liquids, especially when purifying water.
@@ -432,6 +438,12 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 
 ### inherently
 Some people enjoy your inherently cheerful nature, but it drives other people crazy because they find you annoyingly perky.
+
+### internalize &emsp; /ɪn'tɜːnəlaɪz/
+If you feel anger, pain, fear or hurt but never show it, you internalize it --- you keep it inside.
+
+: to accept or absorb an idea, opinion, belief, e.t. so that it becomes part of your character.
+- He had not expected the people so readily to internalize the values of democracy.
 
 ### introduce
 - Let me introduce myself: my name is John Smish.
@@ -651,6 +663,16 @@ Prim means polite, straight-laced, even *twee*.
 Things that are profitable make money or are beneficial in other ways. Businesses hope to be profitable in the financial sence, but a profitable relationship is one that's good for everyone involved.
 - I made profitable use of my time, mixing with a lot of different people and practising my Spanish.
 
+### prominently
+- A photograph of her daughter was prominently displayed on her desk.
+
+### portfolio
+: a collection of drawings, documents, etc. that represent a person's, especially an artist's, work
+- She's trying to build up a portfolio of work to show during job interviews.
+
+### protrude
+Protrude means to stick out. A gravestone protrudes from the ground, a shelf protrudes from a wall, a lollipop stick protrudes from your month.
+
 ### provision
 - THe provision of good public transport will be essential for developing the area.
 - The department is responsible for the provision of residential care services.
@@ -814,6 +836,19 @@ If you needed advice, you'd probably go to your most stable friend, the one leas
 A stimulant is a drug that speeds up your body or an event that spurs you to action. Both types of stimulant get you going. When Pearl Harbor was attacked, it was a stimulant that drove America into World War II.
 - Because cigarettes can be either a stimulant or a relaxant, the game has two modes.
 
+### succeed
+- We succeeded in getting tickets to the show.
+- No one wanted them to succeed, not the cops, the heroes, not the villains.
+- Some people will succeed in their efforts to stop smoking.
+- You could say he succeeds almost too well.
+- You have the extra willpower and a very exciting reason to make a fitness plan succeed.
+
+The Latin root of succeed is *succedere*, 'come close after'.
+
+A prince who will inherit his father's kingdom will succeed his father one day, and a new high school principal can be said to succeed the old one.
+- On Thresday, Garcetti ruled himself out of the race to succeed Boxer.
+
+
 ### subject    &emsp;  /səb'jekt/
 
 ### submersion
@@ -904,8 +939,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQyNzI0NTYsMTAxNzE5NDc4NSwtOD
-UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
-MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
-==
+eyJoaXN0b3J5IjpbLTIzNzc4Mjk1MiwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
