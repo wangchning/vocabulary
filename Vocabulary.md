@@ -50,11 +50,20 @@ Origin. From the 14th-century French *argument* meaning "statements and reasonin
 - The house is backed by fields.
 - The project is being backed by a letter of credit from Lasalle Bank.
 
+### bachelor /BATCH-uh-lur/
+There are two criteria needed in order to be a bachelor: one is that you can't be married, and the other is that you have to be a man. Any people outside of these creteria are some other word.
+
 ### barbaric &emsp; /ba:'bærik/
 - Max, you should have told me about the bad situation. Untested experimental drugs is one thing, but three to a room? That's *barbaric*.
 
-### bachelor /BATCH-uh-lur/
-There are two criteria needed in order to be a bachelor: one is that you can't be married, and the other is that you have to be a man. Any people outside of these creteria are some other word.
+### barycentic
+: Relating to the centre of gravity
+Origin: Late 19th century from Greek *barus* 'heavy' + -centric
+
+- Any two objects in orbit around each other are actually in orbit around an invisible point called the center of mass, or barycenter. Jupiter is the only planet for which this barycenter is outside the radius of the sun.
+
+
+
 
 ### broadly
 - A vector bundle is, broadly speaking, a family of vector spaces which is continuously indexed by a topological space. An important example is the tangent bundle of a manifold.
@@ -187,6 +196,9 @@ Something that's dispensable isn't necessary--you don't really need it. Your vin
 ## E
 ### efface
 Teachers get annoyed to find that someone has effaced the blackboard --- even the part clearly marked, "Do Not Erase!"
+
+### evolution and revolution
+*Evolution* means the process of developing by gradual changes while *revolution* states a new development in an industry that changes everything drastically.
 
 ### exclusive
 To exclude means basically to close the door in order to keep someone or something out. An "exclusive" offer is supposedly made to only a few people. If a product is being sold exclusively by one store, you won't be able to find it anywhere else.
@@ -389,6 +401,14 @@ If an event is cancelled outright, there's no question about it being reschedule
 ### petition
 - We recently presented the government with a petition signed by 4500 people.
 
+### post
+Another word for you job is your post.
+- Now that we have good context on linear transformations, it's time to get to main topic of this post -- affine transformations.
+
+#### poster
+: a sign posted in a public place as an advertisement.
+
+
 ### practical
 - Qualification are important but practical experience is always an advantage.
 
@@ -477,6 +497,11 @@ The root of section is the Latin word *sect*, which means "cut". Think __dissect
 - He's 16, but he often seems (to be) younger.
 - The children seemed (as if they were) tired.
 - It seems to me (that) he isn't the right person for the job.
+
+### seminar
+A seminar means a class or meeting, but it carries with it *extra weight*. An eductional seminar indicates a small, advanced study, while a meeting labeled as such means an intense exchange of ideas.
+
+The Latin seminarium originally referred to a *plant nursery*, a place of great growth. From this came the German seminar, referring to a formal educational group led by a professor. While university seminars are most frequently small-group studies of a particular issue.
 
 ### scope
 - I'm afraid that problem is beyond the scope of my lecture.
@@ -567,7 +592,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzM4Mjg0MywxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbMTU2Nzg2ODMyMiwxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
