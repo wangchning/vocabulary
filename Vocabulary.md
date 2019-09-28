@@ -198,6 +198,13 @@ The word factor doubles as both noun and verb. A factor is an element that influ
 When speech or writing is not literal, it is figurative, like when you say you have a ton of homework.
 
 In art, figure means "human or animal form," so a figurative drawing might show horses running across a field.
+
+### find
+You can find something deliberately, or by stumbling upon it, like when you find a five-dollar bill on the sidewalk. In this meaning, find means obtain, but it can also mean observe, such as when you find that reading in dim light gives you a headache. As a noun, find is the thing you discover, like your elephant costume, the best find in day of garage sale shopping.
+
+### flout
+- He flouted convention by wearing sneakers with his tuxedo.
+
 ### forfeit
 - He argues that murderers forfeit theit own right to life.
 - He exerted himself to save the souls of those whose bodies were forfeit by reason of relapse, and succeeded in all cases but one.
@@ -206,11 +213,25 @@ In art, figure means "human or animal form," so a figurative drawing might show 
 ### fortify
 - The night before running a marathon, Elsa fortifies herself by eating a large plate of pasta.
 
+### freshen
+There are many ways to freshen, depending on what needs to be made fresh. You can freshen the air in your house by opening all the windows, or freshen up your friend's drink by pouring more *lemonade* in her glass. A company may decide to freshen their brand's image after a scandal, and you might freshen your breath by swishing a little *mouthwash*.
+
+Back in the 1600s, this verb meant "make stronger."
+
 ## G
 
 ## H
 
 ## I
+### immersion
+- Total immersion in a videogame is almost like living another life.
+
+### implement
+Apply the noun implement when you want to use a fancy word for "tool." A knife and fork are implements for handling food.
+: to start using a plan or systerm
+- The changes to the national health system will be implemented next year.
+- Due to high costs, the program was never fully implemented.
+
 ### inventory
 - We made an inventory of the library's collection.
 - Inventories at both stores were low.
@@ -278,8 +299,8 @@ If an event is cancelled outright, there's no question about it being reschedule
  : something that comes first in order to prepare for the main part.
 \: a game that is played before to decide whice players will be allowed to continue playing.
 
-### priority
-- “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
+### practical
+- Qualification are important but practical experience is always an advantage.
 
 ### preserve
 When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
@@ -287,8 +308,12 @@ When you preserve something, you keep it as it is now, without a decline in qual
 - To preserve a friend three things are required: to honour him present, praise him absent, and assist him in his necessities.
 - To acquire wealth is difficult, to preserve it more difficult, but to spend it wisely most difficult of all. 
 
-### practical
-- Qualification are important but practical experience is always an advantage.
+### priority
+- “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
+
+### profitable
+Things that are profitable make money or are beneficial in other ways. Businesses hope to be profitable in the financial sence, but a profitable relationship is one that's good for everyone involved.
+- I made profitable use of my time, mixing with a lot of different people and practising my Spanish.
 
 ### provision
 - THe provision of good public transport will be essential for developing the area.
@@ -349,8 +374,7 @@ But it no longer happens or is no longer true now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA2NjcxMjcsMTAxNzE5NDc4NSwtOD
-UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
-MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
-==
+eyJoaXN0b3J5IjpbMTk3OTY2Nzg4NSwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
