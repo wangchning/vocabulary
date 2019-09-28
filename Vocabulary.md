@@ -282,6 +282,10 @@ An excursion is taken more for pleasure than for practical reasons.
 > : The felling of lively and cheerful joy.
 - There was a sense of exhilaration about being alone on the beach.
 
+### exotic &emsp; /ɪg'zɒtɪk/
+: unusual and often excitiong because of coming from a far, especially tropical country
+- exotic flowers/food/designs
+
 ### expense
 An expense is a cost, but you can also use this word to mean the figurative cost of something. If you find it embarrassing to dress up as Santa, you might say that you do it to amuse your nephews, at the expense of your pride.
 - Democrats will complain he overemphasizes punishment at the expense of prevention and treatment.
@@ -327,6 +331,10 @@ You can find something deliberately, or by stumbling upon it, like when you find
 ### fortune
 **A fortune** can be a large amount of money, and **fortune** is a form of fate. So you want to have the good **fortune** to make **a fortune** during your career.
 
+### frantically
+- I got home to find Lara frantically searching for her keys.
+- She tore open the envelope and frantically read the letter.
+
 ### freshen
 There are many ways to freshen, depending on what needs to be made fresh. You can freshen the air in your house by opening all the windows, or freshen up your friend's drink by pouring more *lemonade* in her glass. A company may decide to freshen their brand's image after a scandal, and you might freshen your breath by swishing a little *mouthwash*.
 
@@ -354,6 +362,9 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 - In keeping with the overall design of the park, the playground will remain small.
 - The decorations in the house are in perfect keeping with her personality.
 - The modern furniture was out of keeping with the old house.
+
+### indelible
+- The blood had left an indelible mark on her shirt.
 
 ### indignant
 *Indignant* refers to anger based on unworthy or unfair behavior rather than merely injury to one's own interests. 
@@ -502,6 +513,9 @@ Another word for you job is your post.
 #### poster
 : a sign posted in a public place as an advertisement.
 
+### postnatal
+: relating to the peried of time immediately after a baby has been born
+**antenatal** (US **prenatal**)
 
 ### practical
 - Qualification are important but practical experience is always an advantage.
@@ -520,6 +534,9 @@ Preamble comes from the Latin praeambulus which means "walking before". And that
 
 
 
+### presentiment
+- I had a presentiment that he represented a danger to me.
+- The young girl had had a presentiment of impending evil, but her wish o postpone the journey had benn overruled.
 
 ### preserve
 When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
@@ -590,6 +607,9 @@ Recursion is the process of repeating items in a self-similar way. Recursion can
 ### remnant
 - the remnants of last night's meal
 - remnants of the city's former glory.
+
+### remote
+- It happened in the remote post, so no one worries about it any more.
 
 ### retraction
 A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
@@ -755,8 +775,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU4MTAxODYsMTAxNzE5NDc4NSwtOD
-UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
-MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
-==
+eyJoaXN0b3J5IjpbLTk4MzQwNzc4MSwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
