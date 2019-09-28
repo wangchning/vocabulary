@@ -390,26 +390,64 @@ Things that are profitable make money or are beneficial in other ways. Businesse
 A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
 
 ## R
+### radical
+The noun, radical, come from the Latin *radix* "root," and in fact, radical and root are synonymous as technical terms in fields such as math and linguistics. In more everyday language, a radical is someone who has very extreme views, so you could say that their views are different from the roo up. Similarly, a radical flaw or change is a fundamental one whereas a radial design or idea is very new and innovative.
+
+### ramification
+A ramification is an accidental consequence that complicates things. Remember that time you borrowed your father's car without asking? The ramification was that Dad missed an important meeting, his company *went under*, and he had to sell the car.
+
+### recursive
+Recursion is the process of repeating items in a self-similar way. Recursion can be *implemented* in Scratch by making a block that uses itself. This can be used to create *fractals*. A fractal is pattern that produces a picture, which contains an infinite amount of copies of itself.
+- The *droste effect* is an example of recursion.
+
 ### reminisce  &emsp; /"remi'nis/
 - On their wedding anniversary, Lenny and Jean reminisced about their first date.
 - The grandparents sat there, reminiscing all afternoon.
+
+### remnant
+- the remnants of last night's meal
+- remnants of the city's former glory.
+
+### revolutionize
+: to completely change something so that it is much better
+- Newton's discoveries revolutionized physics.
+
+
 
 ## S
 ### section
 The root of section is the Latin word *sect*, which means "cut". Think __dissect__ ("cut into pieces"), or __bisect__ ("cut in two").
 
+### seem
+- Before we turn to the proof, some comments seem called for.
+- He's 16, but he often seems (to be) younger.
+- The children seemed (as if they were) tired.
+- It seems to me (that) he isn't the right person for the job.
+
 ### scope
 - I'm afraid that problem is beyond the scope of my lecture.
 - We would now like to broaden the scope of the enquiry and look at more general matters.
 
+### shatter
+If your best friend ignores you all day, your heart shatters; and if you stumble and fall on your way up to a podium to give a speech, your confidence may shatter.
 
 ### springiness
 > : the elasticity of something that can be stretched and returns to its original length
 
 ### sophisticated &emsp; /sə'fɪstɪkeɪtɪd/
-- Honeybees use one of the most sophisticated communication systems of any insect.
+If something is sophisticated, it's complicated and intricate.
+Sophisticated can also refer to having good taste.
+Either way, sophisticated things are impressive.
+
+Driving a car is more sophisticated than riding a bike. Going to a symphony is considered more sophisticated than going to a rock concert.
+
+- She had all the sophisticated graces of life and much of the natural charm of an unusually attractive personality.
+- If within the sophisticated man there is not an unsophisticated one, then he is but one of the Devil's Angels.
 
 ### subject    &emsp;  /səb'jekt/
+### submersion
+- The fruit was preserved by submersion in alcohol.
+
 ### supress
 - Political dissent was brtally supressed.
 - The governor tried to supress the news.
@@ -440,8 +478,7 @@ But it no longer happens or is no longer true now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTIzMjEzMjQsMTAxNzE5NDc4NSwtOD
-UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
-MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
-==
+eyJoaXN0b3J5IjpbMTYyNjE1MjU2OSwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
