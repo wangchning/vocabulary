@@ -1,4 +1,12 @@
 ## A
+### a fortiori &emsp; /''eɪfɔːtɪ'ɔːrʌɪ/
+Use to express a conclusion for which there is stronger evidence than for a previously accepted one.
+- If you are wrong then, a fortiori, so am I.
+- If he can afford a luxury yacht, then a fortiori he can afford to pay his debts.
+
+### alienate
+- The teacher often insulted Maria. His rude behavior began to alienate the other students, who had once thought of him as a friend.
+
 ### amount
  : develop to 
  - This idea will never amount to anything.
@@ -25,17 +33,58 @@ An argument is a disagreenment between two or more people, but it can also be a 
 Origin. From the 14th-century French *argument* meaning "statements and reasoning in support of a proposition".
 - I found his argument pretty convincing.
 
+### attribute
+: From Latin 'attribuere'. 'ad' means *to*, 'tribuere' means *give* or bestow'
+- The interviewer asked me what I consider to be my best attribute.
+- She attributed the A on her test to all the hard studying.
+
+### awash
+> When something's awash, it's doused or covered with water. If your canoe is awash with seawater, it's time to start bailing.
+- The movie premiere was awash with photographers and fans.
+> Awash was originally a nautical word meaning "flush with," from the 15th-century meaning of wash, "land alternately covered and exposed by the sea."
+- By then the decks forward were awash, while the stern of the vessel was pitched high in the air.
+
 ## B
 ### backed
 - His claims are not backed by any scientific evidence.
 - The house is backed by fields.
 - The project is being backed by a letter of credit from Lasalle Bank.
 
+### barbaric &emsp; /ba:'bærik/
+- Max, you should have told me about the bad situation. Untested experimental drugs is one thing, but three to a room? That's *barbaric*.
+
+### bachelor /BATCH-uh-lur/
+There are two criteria needed in order to be a bachelor: one is that you can't be married, and the other is that you have to be a man. Any people outside of these creteria are some other word.
+
+### broadly
+- A vector bundle is, broadly speaking, a family of vector spaces which is continuously indexed by a topological space. An important example is the tangent bundle of a manifold.
+
 
 ## C
 ### coarse
 Coarse can mean rough to the touch or vulgar. If you lick your dinner plate, or wipe your nose on your sleeve, you'd be coarse — that is, unrefined, boorish, and downright vulgar. 
 - She never wears clothes made of coarse material.
+
+### commit
+To commit yourself to being the coolest kid on the beach means spending hours at the mall trying on trunks and flip-flops.
+
+From Latin 'committere' *to connect, entrust*, from 'com-+mittere' *to send*.
+
+- I commit my soul to God.
+- He keeps delaying his decision because he doesn't want to commit himself.
+
+- The contract commits the company to finishing the bridge by next fall.
+- A night after committing three errors, the Diamondbacks turned three double plays.
+
+- I commit this evil book to the flames.
+- I shall commit to her success.
+- It isn't their diplomatic style to commit themselves on such a delicate issue.
+- Don't commit your promises to paper if you are not certain you keep them.
+
+- He brooded on whether she should commit suicide.
+- I think I can come but I won't commit myself till I know for sure.
+- She didn't want to commit herself one way or the other.
+- Love is blind, and lovers cannot see the pretty follies that themselves commit.
 
 ### commute
 From the Latin word *commutare*, meaning "to change altogether".
@@ -47,8 +96,22 @@ From the Latin word *commutare*, meaning "to change altogether".
 - Can my child be medically examined without my consent?
 - Since when is a loud noise the only sign of resistance and lack of consent?
 
+### controversy
+A controversy is a dispute or argument in which people express strong opposing views.
+When a popular TV show kills off a well-loved character, there's bound to be a lot of controversy.
+
+Controversy means a quarrel (often public) involving strong disagreement, but the topic can be as unimportant as a new movie.
+
 ### convention
 - They defied/flouted/broke with convention by giving up their jobs and becoming self-sufficient.
+
+### corresponding
+- Being of a nature more or less sensitive to atmospheric influences, I feel a corresponding gloominess.
+- It is as false a stimulant as opium of alcohol, and leaves a orresponding mark.
+- We have only to listen to the universal harmony, and to see that it moves us to corresponding praise.
+
+### cramp
+When a muscle in your body tenses up painfully, it's a cramp.
 
 ### counterfeit
 Counterfeit money, goods or documents are not genuine, but have been made to look exactly like genuine ones.
@@ -241,7 +304,7 @@ But it no longer happens or is no longer true now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjczOTQ2LDEwMTcxOTQ3ODUsLTg1Mz
-I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
-LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbMTc4ODEyNTgwNSwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
