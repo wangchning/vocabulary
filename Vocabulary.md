@@ -287,6 +287,10 @@ There are many ways to freshen, depending on what needs to be made fresh. You ca
 Back in the 1600s, this verb meant "make stronger."
 
 ## G
+### genesis
+Genesis is the very start of something, its bitrh. 
+- Q: What was the genesis of the film; and what made you interested in working with Joan?
+- According to *Genesis*, the God created humanity he created "humanking in his image" and "male and female he created them."
 
 ## H
 
@@ -369,6 +373,9 @@ A node is a point of connection. Technically, a traffic intersection is a node s
 You can find a node on a plant: it's the swelling on the stem marking the spot where leaves emerge.
 
 Another type os node is a round swelling. Some are abnormal, like a node you discover on your knee, but others, such as a lymph node, are a normal part of your immune system.
+
+### nomenclature &emsp; /'noʊmənˌkleɪtʃər/
+When adjusting to a new job, you may have trouble understanding the nomenclature, or system of naming things, in the workplace. Just remember: they're "guests," not "customers," and ther push a "purchase buggy," not a "shopping cart."
 
 ### not to mention
 - He's one of the kindest and most intelligent, not to mention handsome, men I know.
@@ -504,6 +511,11 @@ The noun, radical, come from the Latin *radix* "root," and in fact, radical and 
 ### ramification
 A ramification is an accidental consequence that complicates things. Remember that time you borrowed your father's car without asking? The ramification was that Dad missed an important meeting, his company *went under*, and he had to sell the car.
 
+### reassuring
+: Something reassuring comforts or inspires you. A reassuring smile can help to calm a nervous speaker who's about to give a speech.
+
+
+
 ### recursive
 Recursion is the process of repeating items in a self-similar way. Recursion can be *implemented* in Scratch by making a block that uses itself. This can be used to create *fractals*. A fractal is pattern that produces a picture, which contains an infinite amount of copies of itself.
 - The *droste effect* is an example of recursion.
@@ -593,6 +605,12 @@ A newspaper article should be objective, but a poem can bring up all kinds of em
 - There's no need to take that tone with me --- it's not my fault we're late.
 - This treatment helps tone the body, firm up muscles and tighten the skin.
 
+### transition
+Just think the example of a caterpillar making a transition into a butterfly. 
+- We're going to transition Gloria to that new job.
+- He had difficulty transitioning from *enlisted man* to officer.
+> Transition is awfully *reassuring* in its tidy reliance on regular forms.
+
 ### twee
 Twee originated in baby talk as an alteration of sweet. Nowadays, we use twee for things that have passed beyond agreeable and into the realm of cloying.
 - The movie was a bit twee for my taste.
@@ -631,7 +649,8 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTE4NDE0NSwxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbLTE5MTg5Nzc1OTIsMTAxNzE5NDc4NSwtOD
+UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
+MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
+==
 -->
