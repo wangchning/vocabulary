@@ -335,6 +335,8 @@ If an event is cancelled outright, there's no question about it being reschedule
 ### petition
 - We recently presented the government with a petition signed by 4500 people.
 
+### practical
+- Qualification are important but practical experience is always an advantage.
 
 
 ### preamble
@@ -344,23 +346,26 @@ Preamble comes from the Latin praeambulus which means "walking before". And that
 - The longer your preamble, the less likely it is you'll get to the end.
 - That's a long preamble to my subject, but you will see the relevance presently.
 
-### Preliminary
-: Something that comes first in order to prepare for the main part
-
-: a game that is played first to decide which player will be allowed to continue playing
-
 ### preliminary
- : something that comes first in order to prepare for the main part.
-\: a game that is played before to decide whice players will be allowed to continue playing.
+> : something that comes first in order to prepare for the main part.
+> : a game that is played before to decide whice players will be allowed to continue playing.
 
-### practical
-- Qualification are important but practical experience is always an advantage.
+
+
 
 ### preserve
 When you preserve something, you keep it as it is now, without a decline in quality, like trying to preserve your good health by exercising regularly and eating right.
 - To do whatever needs to be done to preserve this last and greatest bastion of freedom.
 - To preserve a friend three things are required: to honour him present, praise him absent, and assist him in his necessities.
 - To acquire wealth is difficult, to preserve it more difficult, but to spend it wisely most difficult of all. 
+
+### prevail
+- And did reason prevail over emotion?
+- He was eventually prevailed upon to accept the appointment.
+
+### prim
+Prim means polite, straight-laced, even *twee*.
+- Many characters in Jane Austen novels are prim and proper.
 
 ### priority
 - “The tribe is really made of people who put travel as a priority in their entire lifestyle,” says Evita.
@@ -372,6 +377,13 @@ Things that are profitable make money or are beneficial in other ways. Businesse
 ### provision
 - THe provision of good public transport will be essential for developing the area.
 - The department is responsible for the provision of residential care services.
+
+### psychiatric /syki-atrik/
+: of or relating to the study of mental illness
+* He worked as a nurse in a psychiatric hospital.
+* Shortly after returning home, it was discovered that the children did, in fact, have significant medical and psychiatric problems.
+* Do I understand, Doctor Chalmers, that you would be willing to submit to psychiatric examination?
+> note: a medical problem is in contrast to surgical problem.
 
 ## Q
 ### retraction
@@ -428,7 +440,8 @@ But it no longer happens or is no longer true now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTAwODE1MywxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbLTIxMTIzMjEzMjQsMTAxNzE5NDc4NSwtOD
+UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
+MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
+==
 -->
