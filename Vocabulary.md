@@ -4,6 +4,9 @@ Use to express a conclusion for which there is stronger evidence than for a prev
 - If you are wrong then, a fortiori, so am I.
 - If he can afford a luxury yacht, then a fortiori he can afford to pay his debts.
 
+### acknowledgment
+If you look at the acknowledgements section of a book, it tells you who helped the author: writers give acknowledgment to editors, agents, friends, family, teachers, people they interviewed, and anyone else who helped them while writting.
+
 ### alienate
 - The teacher often insulted Maria. His rude behavior began to alienate the other students, who had once thought of him as a friend.
 
@@ -205,15 +208,7 @@ To exclude means basically to close the door in order to keep someone or somethi
 
 Exclusive's antonym is *inclusive*; an inclusive policy, an inclusive church, or an inclusive approach is one that aims to include as many people as possible.
 
-### excuse
-: release (someone) from a duty or requirement
-- It will not be possible to excuse you from jury duty
 
-### expense
-An expense is a cost, but you can also use this word to mean the figurative cost of something. If you find it embarrassing to dress up as Santa, you might say that you do it to amuse your nephews, at the expense of your pride.
-- Democrats will complain he overemphasizes punishment at the expense of prevention and treatment.
-- They often make jokes at each other's expense.
-- I don't think we can afford the expense.
 
 ### excursion
 : From Latin 'excurrere' meaning *to run out*
@@ -222,9 +217,25 @@ An excursion is taken more for pleasure than for practical reasons.
 
 - We had been preparing for our summer excursion some time, but were unable to get away from Paris before the 18th of July.
 
+### excuse
+: release (someone) from a duty or requirement
+- It will not be possible to excuse you from jury duty
+
 ### Exhilaration
 > : The felling of lively and cheerful joy.
 - There was a sense of exhilaration about being alone on the beach.
+
+### expense
+An expense is a cost, but you can also use this word to mean the figurative cost of something. If you find it embarrassing to dress up as Santa, you might say that you do it to amuse your nephews, at the expense of your pride.
+- Democrats will complain he overemphasizes punishment at the expense of prevention and treatment.
+- They often make jokes at each other's expense.
+- I don't think we can afford the expense.
+
+### expository
+* But more expository than expansive, "Jerusalem" is better at sketching Byron and his merry band of outlaws that in setting them in dramatic motion over three protracted acts.
+* He is the Boogeyman, the underworld's "Baba Yaga," a man of few words; expository dialogue isn't his strongest means of communication.
+
+
 
 ## F
 ### factor
@@ -363,6 +374,11 @@ Another type os node is a round swelling. Some are abnormal, like a node you dis
 - They dad different notions of right and wrong.
 - She had a vague notion about what happened.
 - I have long since abandened the notion that higher education is essential to either success or happiness. Hot houses of learning do not always grow anything edible.
+
+### nursery
+In a nursery, you're going to find a lot of growth and either babies or plants.
+
+The word *nurse* is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking.
 
 ## O
 ### obligation
@@ -592,7 +608,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzg2ODMyMiwxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbNzQ2OTcwMjQzLDEwMTcxOTQ3ODUsLTg1Mz
+I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
+LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
 -->
