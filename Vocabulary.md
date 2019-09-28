@@ -4,6 +4,10 @@ Use to express a conclusion for which there is stronger evidence than for a prev
 - If you are wrong then, a fortiori, so am I.
 - If he can afford a luxury yacht, then a fortiori he can afford to pay his debts.
 
+### Accordingly
+* If you learn that your so-called best friend is spreading nasty rumors about you, *act accordingly* and stop being her friend.
+* You were hungry, accordingly you ate.
+
 ### acknowledgment
 If you look at the acknowledgements section of a book, it tells you who helped the author: writers give acknowledgment to editors, agents, friends, family, teachers, people they interviewed, and anyone else who helped them while writting.
 
@@ -75,6 +79,26 @@ Origin: Late 19th century from Greek *barus* 'heavy' + -centric
 - Any two objects in orbit around each other are actually in orbit around an invisible point called the center of mass, or barycenter. Jupiter is the only planet for which this barycenter is outside the radius of the sun.
 
 
+### base
+- She sat down at the base of a tree.
+- A soup base is the flavoring or broth you use to get your soup started.
+- She used her family's history as a base for her novel.
+- But once more, I swear before Heaven that your base charges are false.
+: Dishonorable, despicable; not pure; low in value
+- It is a base coin.
+- We do not use base metals.
+- He was acting from base motives.
+: verb
+- Where are you based now?
+- - I'm based at New York.
+- My novel is based on historical facts.
+
+### basis
+* Since your job is so exhausting, you need vacations on a regular basis.
+* The basis of democracy is regular free elections.
+* He laid the basis for modern ideas of democracy and the legitimacy of majority rule.
+* On such a basis the system could not, however, be very largely developed.
+* Accordingly I ask, how much time is needed to account for the facts before us on the basis of uniformity?
 
 
 ### broadly
@@ -530,13 +554,9 @@ Things that are profitable make money or are beneficial in other ways. Businesse
 > note: a medical problem is in contrast to surgical problem.
 
 ## Q
-### reluctantly
-* She reluctantly agreed to step down as managing director.
-* Reluctandly, he did what I asked.
-* He was most *indignant* that we had been allowed to come this far and reluctantly admitted that our pass was good.
 
-### retraction
-A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
+
+
 
 ## R
 ### radical
@@ -558,6 +578,11 @@ A ramification is an accidental consequence that complicates things. Remember th
 Recursion is the process of repeating items in a self-similar way. Recursion can be *implemented* in Scratch by making a block that uses itself. This can be used to create *fractals*. A fractal is pattern that produces a picture, which contains an infinite amount of copies of itself.
 - The *droste effect* is an example of recursion.
 
+### reluctantly
+* She reluctantly agreed to step down as managing director.
+* Reluctandly, he did what I asked.
+* He was most *indignant* that we had been allowed to come this far and reluctantly admitted that our pass was good.
+
 ### reminisce  &emsp; /"remi'nis/
 - On their wedding anniversary, Lenny and Jean reminisced about their first date.
 - The grandparents sat there, reminiscing all afternoon.
@@ -565,6 +590,9 @@ Recursion is the process of repeating items in a self-similar way. Recursion can
 ### remnant
 - the remnants of last night's meal
 - remnants of the city's former glory.
+
+### retraction
+A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
 
 ### revolutionize
 : to completely change something so that it is much better
@@ -577,6 +605,9 @@ If you are rigorous when you do something, you do it extremely carefully and pre
 
 The Latin root for rigorous is *rigor*, meaning "stiffness." This might remind you of *rigor mortis*, the stiffening of a body after death. This is a good, if creepy, way of remembering the meaning of rigorous: rigorous people are stiff and unbending about the standards of their work.
 
+### rigour  &emsp; (AM rigor)
+* The underwent the rigours of military training.
+* They conducted the experiments with scientific rigour.
 
 ## S
 ### section
@@ -642,8 +673,10 @@ Driving a car is more sophisticated than riding a bike. Going to a symphony is c
 - At the age of 17 she is already one of Hollywood's most sought-after actresses.
 
 ### subject    &emsp;  /səb'jekt/
+
 ### submersion
 - The fruit was preserved by submersion in alcohol.
+
 
 ### supress
 - Political dissent was brtally supressed.
@@ -722,7 +755,8 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzAxNDQ1LDEwMTcxOTQ3ODUsLTg1Mz
-I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
-LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
+eyJoaXN0b3J5IjpbLTEyMjU4MTAxODYsMTAxNzE5NDc4NSwtOD
+UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
+MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
+==
 -->
