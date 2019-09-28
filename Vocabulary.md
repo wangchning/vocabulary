@@ -44,6 +44,10 @@ If you look at the acknowledgements section of a book, it tells you who helped t
 ### alienate
 - The teacher often insulted Maria. His rude behavior began to alienate the other students, who had once thought of him as a friend.
 
+### amalgamate
+: to unite (two or more things, such as two businesses) into one thing
+- They amalgamated the hospital and the university.
+
 ### amount
  : develop to 
  - This idea will never amount to anything.
@@ -63,8 +67,14 @@ Analogous is a term used in biology to refer to body parts that have a similar f
 : to study or examine something in detail, in order to discover more about it
 - This software is used to analyse marketing data.
 
+### annulus &emsp; /'ænjʊləs/
+
 ### applied
 Something applied is practical, having to do with real-world situations and problems. Applied chemistry, applied physics, and the applied sciences as a whole have to do with real-world issues. The opposite of applied is *theoretical* which is only concerned with ideas.
+
+### appreciate
+If you appreciate something, you recognize its value.
+- The parolee appreciated his newfound freedom.
 
 ### argument
 An argument is a disagreenment between two or more people, but it can also be a statement backed by evidence, like your argument that your school doesn't need a dress code.
@@ -298,6 +308,10 @@ Dictum dates from 16th Century. It descended from a Latin word that means "somet
 
 > It would be dim-witted to jump off the roof with an open umbrella to see if you'll float gently to the ground. (Spoiler: You won't.)
 
+### directional
+: Used for receiving sounds, radio signals, etc.
+* The radio has a directional antenna.
+
 ### disguise
 - He disguised himself by wearing a false beard.
 - He put on a large hat and glasses as a disguise and hope no one would recognize him.
@@ -476,6 +490,9 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 ### indelible
 - The blood had left an indelible mark on her shirt.
 
+### indicate
+To indicate means to point something out or to present evidence. If you feel sick during a car trip, you can indicate this to the driver by groaning loudly or announcing "I'm going to be sick!"
+
 ### indignant
 *Indignant* refers to anger based on unworthy or unfair behavior rather than merely injury to one's own interests. 
 - If you discovered that a teacher gave ten extra points on a test to all students who sat in the front row, you'd be indignant.
@@ -651,6 +668,13 @@ If an event is cancelled outright, there's no question about it being reschedule
 - Although there is no overt hostility, black and white students do not mix much.
 
 ## P
+### parole
+permission for a prisoner to be released before their period in prison is finished, with the agreement that they will behave well.
+- She hopes to be eligible for parole in three years.
+- Reynolds was sentenced to life without parole.
+
+Parole comes from the French for "word," and means "word of honor."
+
 ### pathological
 > : (of a person) unable to control part of their behaviour; unreasonable
 - I've got a pathological fear of heights.
@@ -1009,7 +1033,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIzNzU0MTcsMTAxNzE5NDc4NSwtOD
+eyJoaXN0b3J5IjpbLTEzMDI5ODAwMTUsMTAxNzE5NDc4NSwtOD
 UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
 MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
 ==
