@@ -176,6 +176,16 @@ To exclude means basically to close the door in order to keep someone or somethi
 
 Exclusive's antonym is *inclusive*; an inclusive policy, an inclusive church, or an inclusive approach is one that aims to include as many people as possible.
 
+### excuse
+: release (someone) from a duty or requirement
+- It will not be possible to excuse you from jury duty
+
+### expense
+An expense is a cost, but you can also use this word to mean the figurative cost of something. If you find it embarrassing to dress up as Santa, you might say that you do it to amuse your nephews, at the expense of your pride.
+- Democrats will complain he overemphasizes punishment at the expense of prevention and treatment.
+- They often make jokes at each other's expense.
+- I don't think we can afford the expense.
+
 ### excursion
 : From Latin 'excurrere' meaning *to run out*
 
@@ -231,6 +241,11 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 > : to start using a plan or systerm
 - The changes to the national health system will be implemented next year.
 - Due to high costs, the program was never fully implemented.
+
+### in keeping with
+- In keeping with the overall design of the park, the playground will remain small.
+- The decorations in the house are in perfect keeping with her personality.
+- The modern furniture was out of keeping with the old house.
 
 ### indignant
 *Indignant* refers to anger based on unworthy or unfair behavior rather than merely injury to one's own interests. 
@@ -440,9 +455,13 @@ Sophisticated can also refer to having good taste.
 Either way, sophisticated things are impressive.
 
 Driving a car is more sophisticated than riding a bike. Going to a symphony is considered more sophisticated than going to a rock concert.
-
+- Honeybees use one of the most sophisticated communication systems of any insect.
 - She had all the sophisticated graces of life and much of the natural charm of an unusually attractive personality.
 - If within the sophisticated man there is not an unsophisticated one, then he is but one of the Devil's Angels.
+
+### sought-after
+- This is the sought-after maximal ideal.
+- At the age of 17 she is already one of Hollywood's most sought-after actresses.
 
 ### subject    &emsp;  /səb'jekt/
 ### submersion
@@ -454,6 +473,26 @@ Driving a car is more sophisticated than riding a bike. Going to a symphony is c
 - His feelings of resentment have been srppressed.
 
 ## T
+### tear up 
+: to get tears in your eyes, so that you almost start to cry
+- She teared up as the award was presented to her.
+
+: To violently rip or pull someone or something into pieces
+- Make sure you tear up any papers that have your personal details on them.
+
+: To cancel or nullify some contract or agreement.
+- He tore up the contract when he realized how little he would be paid for his work.
+- I had no idea they would tear our deal up if we sought outside investments.
+
+### temporary
+"Oh my goodness! That's a tattoo," your mother might shriek. You might tell her not to worry, since it's only temporary, and will wear off in a few days.
+
+### tomfoolery  &emsp;  /ˌtɒmˈfuː.lər.i/
+Tomfoolery is foolishness. Staring a food fight in a cafeteria is an example of tomfoolery.
+
+### twee
+Twee originated in baby talk as an alteration of sweet. Nowadays, we use twee for things that have passed beyond agreeable and into the realm of cloying.
+- The movie was a bit twee for my taste.
 
 ## UVWXYZ
 ### used to, be used to & get used to
@@ -477,8 +516,19 @@ But it no longer happens or is no longer true now.
 - She should be pretty used to living without electricity or running water by now.
 > Get used to is when you are in the process to make something usual for you, and be used to is when by this time you succed that
 
+### vacuous
+: having or showing a lack of thought or intelligence; mindless
+- a vacuous smile
+
+: Vacuous is a smartsounding way to describe something dumb.
+- Celebrity gossip and reality TV are usually pretty vacuous, even if they're fun.
+
+### volition &emsp; /vəˈlɪʃ.ən/
+Doing something willingly or voluntarily is doing it of your own volition.
+- The singer wished it to be known that he had left the band (out) of his own volition.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjE1MjU2OSwxMDE3MTk0Nzg1LC04NT
+eyJoaXN0b3J5IjpbLTkzMzIyMTcxOCwxMDE3MTk0Nzg1LC04NT
 MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
 NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
