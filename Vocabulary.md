@@ -333,6 +333,9 @@ Something that's dispensable isn't necessary--you don't really need it. Your vin
 ### efface
 Teachers get annoyed to find that someone has effaced the blackboard --- even the part clearly marked, "Do Not Erase!"
 
+### elegance
+Elegance describes the beautiful simplicity of a solution such as an elegant mathematical proof.
+
 ### eligible
 - Neither your dog nor your friend from Australia is eligible to run for president of the United States, but you might be!
 - If you get good grades, volunteer at the hospital, play varsity sports, and write for your school paper, you might be eligible for a college scholarship.
@@ -464,6 +467,11 @@ Hand wavy comes from the magician's technique of waving their hands around to dr
 : to be well-organized, prepared, and up-to-date
 - We need to have our ducks in a row to ensure that there are no problems at home while we're gone on our trip.
 
+### hubris
+Hubris is an excess of confidence: a boxer who shouts "I'm the greatest!" even though he's about to get pummeled by a much stronger opponent is displaying a lot of hubris.
+
+Hubris is from Greek, where it meant "excessive pride, violating the bounds set for humans" and was always punished by the gods.
+
 ## I
 ### if
 : even though
@@ -478,6 +486,9 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 > : to start using a plan or systerm
 - The changes to the national health system will be implemented next year.
 - Due to high costs, the program was never fully implemented.
+
+### impress
+Think of "leaving a mark." You might impress prospective employers in a job interview. Whether that impression will be good or bad is up to you!
 
 ### in keeping with
 - In keeping with the overall design of the park, the playground will remain small.
@@ -753,6 +764,9 @@ Things that are profitable make money or are beneficial in other ways. Businesse
 
 ### prominently
 - A photograph of her daughter was prominently displayed on her desk.
+
+### prospective
+: likely to be or become something specified in the future.
 
 ### portfolio
 : a collection of drawings, documents, etc. that represent a person's, especially an artist's, work
@@ -1033,7 +1047,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI5ODAwMTUsMTAxNzE5NDc4NSwtOD
+eyJoaXN0b3J5IjpbLTE5MTU4MDAwMjAsMTAxNzE5NDc4NSwtOD
 UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
 MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
 ==
