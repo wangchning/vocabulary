@@ -11,6 +11,15 @@ Use to express a conclusion for which there is stronger evidence than for a prev
 ### acknowledgment
 If you look at the acknowledgements section of a book, it tells you who helped the author: writers give acknowledgment to editors, agents, friends, family, teachers, people they interviewed, and anyone else who helped them while writting.
 
+### agony
+- He watched helplessly as his mother died an agonizing death.
+- It was an agonizing decision for him.
+- She went through an agonizing few weeks waiting for the test results.
+- This is a recent agonizing problem that I am struggling with.
+
+- We heard an agonized cry.
+- She gave him an agonized look.
+
 ### alienate
 - The teacher often insulted Maria. His rude behavior began to alienate the other students, who had once thought of him as a friend.
 
@@ -202,6 +211,13 @@ If you leap tall buildings in a sigle bound for the Des Moines branch of your co
 - For once, she dropped her customary reserve and became quite lively.
 
 ## D
+### decree
+Look carefully! A decree isn't something you get when you graduate. That one little letter change makes it something else altogether: a legally binding command or the announcement of such a thing.
+
+If you want to go out with someone on a date, but things keep preventing you from having the chance to ask, you could say the fate did not decree it to be so.
+
+If you go back far enough, a decree referred to a decision handed down by the Roman emperor.
+
 ### Deduce and Reduce
 > To deduce is to figure something out based  on what you already know. 
 
@@ -348,6 +364,20 @@ Back in the 1600s, this verb meant "make stronger."
 Genesis is the very start of something, its bitrh. 
 - Q: What was the genesis of the film; and what made you interested in working with Joan?
 - According to *Genesis*, the God created humanity he created "humanking in his image" and "male and female he created them."
+
+### ground
+1. 
+- Forty or fifty women were sitting cross-legged on the ground.
+2. 
+- The company has maintained its reputation as the developing ground for new techniques.
+- Colonialism is especially fertile ground for nationalist ideas.
+- *Sensing* she was on *shaky ground*, Marie changed the subject.
+- It's often necessary to go over the same ground more than once.
+- There are signs that the party is *gaining ground* in the latest polls.
+- The U.S. dollar lost more ground.
+3. 
+- Her argument was grounded in fact.
+- They believe the soul is immortal, grounding this belief on the Divine nature of the human spirit. 
 
 ## H
 
@@ -681,6 +711,13 @@ The Latin seminarium originally referred to a *plant nursery*, a place of great 
 ### shatter
 If your best friend ignores you all day, your heart shatters; and if you stumble and fall on your way up to a podium to give a speech, your confidence may shatter.
 
+### simultaneous
+: happening or being done at exactly the same time.
+- There are several simultaneous explosions in different cities.
+- The report will be broadcast in Russian with simultaneous English translation.
+- To drive a car, you've got to learn to do several things simultaneously.
+- Two children answered the teacher's question simultaneously.
+
 ### split
 - If you and your boyfriend split, you are no longer together. If your pants split, they come open at the seam. If both of these happen in the same day, split! (Get out of here!)
 - Let's split the apple in two.
@@ -727,6 +764,8 @@ Driving a car is more sophisticated than riding a bike. Going to a symphony is c
 ### submersion
 - The fruit was preserved by submersion in alcohol.
 
+### suppress
+To suppress something means to curb, inhibit, or even stop it. If the sound of your boss moving in his chair sounds like gas, you're going to have to learn how to suppress your giggles.
 
 ### supress
 - Political dissent was brtally supressed.
@@ -755,6 +794,11 @@ Tomfoolery is foolishness. Staring a food fight in a cafeteria is an example of 
 A newspaper article should be objective, but a poem can bring up all kinds of emotions, depending on the tone.
 - There's no need to take that tone with me --- it's not my fault we're late.
 - This treatment helps tone the body, firm up muscles and tighten the skin.
+
+### torment
+To torment someone is to torture them repeatedly. After stealing the old lady's pruse, you might expect to be tormented by many sleepless night. Those nights without sleep will torment you. They are your torment.
+
+Calling someone over and over to demand payment isn't actually torture, but it's certainly a way to torment.
 
 ### transition
 Just think the example of a caterpillar making a transition into a butterfly. 
@@ -805,7 +849,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - Death is so *final*, whereas life is so full of possibilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDE3NTQxMiwxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbOTk3NTAyMTMzLDEwMTcxOTQ3ODUsLTg1Mz
+I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
+LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
 -->
