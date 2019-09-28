@@ -189,6 +189,10 @@ Now degeneration refers to anything in a state of decline, such as a friendship 
 - Cold drinks are in demand in the summer.
 - Cold weather demands warm coats and boots.
 
+### deplorable
+* The children were raised in deplorable conditions.
+* This room is in deplorable order. You have deplorable manners!
+
 ### deviation &emsp; /'diːvɪeɪʃən/
 Anything that varies from the accepted norm or standard is called a deviation. It is common in math and science, but it can refer to anything that differs from the expected.
 
@@ -197,6 +201,12 @@ Deviation in nature is an important part of evolution.
 People are naturally given to change, so there are deviations in critical thought as well as in math and science. Those deviations often account for the creativity that gives rise to new ideas, or theories, or even musical styles.
 
 - Thus nature gives the hint, man acts upon it, and by the law of inheritance exaggerates the deviation.
+
+### dim-witted
+- No, I thought, President Trump was boorish, dim-witted, inarticulate, incoherent, narcissistic and insensitive.
+> Someone who's dim-witted isn't very smart. So you might want to keep your thoughts about your dim-witted cousin to yourself.
+
+> It would be dim-witted to jump off the roof with an open umbrella to see if you'll float gently to the ground. (Spoiler: You won't.)
 
 ### disguise
 - He disguised himself by wearing a false beard.
@@ -281,6 +291,9 @@ You can find something deliberately, or by stumbling upon it, like when you find
 ### fortify
 - The night before running a marathon, Elsa fortifies herself by eating a large plate of pasta.
 
+### fortune
+**A fortune** can be a large amount of money, and **fortune** is a form of fate. So you want to have the good **fortune** to make **a fortune** during your career.
+
 ### freshen
 There are many ways to freshen, depending on what needs to be made fresh. You can freshen the air in your house by opening all the windows, or freshen up your friend's drink by pouring more *lemonade* in her glass. A company may decide to freshen their brand's image after a scandal, and you might freshen your breath by swishing a little *mouthwash*.
 
@@ -313,6 +326,9 @@ Apply the noun implement when you want to use a fancy word for "tool." A knife a
 *Indignant* refers to anger based on unworthy or unfair behavior rather than merely injury to one's own interests. 
 - If you discovered that a teacher gave ten extra points on a test to all students who sat in the front row, you'd be indignant.
 - You may be angry, even furious, if someone shoves you, but you are indignant if the shove is directed at someone weak or helpless. 
+
+### inherently
+Some people enjoy your inherently cheerful nature, but it drives other people crazy because they find you annoyingly perky.
 
 ### involution
 A function, transformation, or operator that is euqal to its inverse, i.e. which gives the identity when applied to itself.
@@ -511,6 +527,10 @@ The noun, radical, come from the Latin *radix* "root," and in fact, radical and 
 ### ramification
 A ramification is an accidental consequence that complicates things. Remember that time you borrowed your father's car without asking? The ramification was that Dad missed an important meeting, his company *went under*, and he had to sell the car.
 
+### reassure &emsp; /ˌrɪər'ʃʊr/
+: to make (someone) feel less afraid, upset or doubtful
+- I tried to reassure myself that the children were safe.
+
 ### reassuring
 : Something reassuring comforts or inspires you. A reassuring smile can help to calm a nervous speaker who's about to give a speech.
 
@@ -555,6 +575,11 @@ The Latin seminarium originally referred to a *plant nursery*, a place of great 
 
 ### shatter
 If your best friend ignores you all day, your heart shatters; and if you stumble and fall on your way up to a podium to give a speech, your confidence may shatter.
+
+### split
+- If you and your boyfriend split, you are no longer together. If your pants split, they come open at the seam. If both of these happen in the same day, split! (Get out of here!)
+- Let's split the apple in two.
+- Be careful to step over the split in the earth left by the quake.
 
 ### springiness
 > : the elasticity of something that can be stretched and returns to its original length
@@ -649,8 +674,7 @@ Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg5Nzc1OTIsMTAxNzE5NDc4NSwtOD
-UzMjU0Nzg4LDM3NDI4MDM4OSwtMTgzMTg3NzkyMyw4OTU1ODcz
-MjUsLTE0Mzc3MTMyMDYsMTY5NDA0MDU4LDEzOTIxMjI0MThdfQ
-==
+eyJoaXN0b3J5IjpbMTA4OTIxNzE3NCwxMDE3MTk0Nzg1LC04NT
+MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
+NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
 -->
