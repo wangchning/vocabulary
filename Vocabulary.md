@@ -113,6 +113,11 @@ From the Latin word *commutare*, meaning "to change altogether".
 ### confine
 - Let's confine our discussion to the matter in question, please!
 
+### confound
+: to confuse and very much surprise someone, so that they are unable to explain or deal with a situation.
+* An elderly man from Hull has confounded doctors by recovering after he was officially declared dead.
+* We should be indignant: we should say, confound their __impudence__: we should turn them out of doors if they did.
+
 ### consent
 - Can my child be medically examined without my consent?
 - Since when is a loud noise the only sign of resistance and lack of consent?
@@ -223,6 +228,10 @@ Something that's dispensable isn't necessary--you don't really need it. Your vin
 ## E
 ### efface
 Teachers get annoyed to find that someone has effaced the blackboard --- even the part clearly marked, "Do Not Erase!"
+
+### eligible
+- Neither your dog nor your friend from Australia is eligible to run for president of the United States, but you might be!
+- If you get good grades, volunteer at the hospital, play varsity sports, and write for your school paper, you might be eligible for a college scholarship.
 
 ### evolution and revolution
 *Evolution* means the process of developing by gradual changes while *revolution* states a new development in an industry that changes everything drastically.
@@ -425,6 +434,10 @@ The word *nurse* is a clue to the meaning of nursery: nurses take care of people
 ### obligation
 - When teachers assign homework, students usually feel an obligation to do it.
 
+### office
+If you have an office job, it means that you go to work in an office, or a professional business place, every day.
+- Barack Obama has planned an ambitious second term in office.
+
 ### oppress
 - When I heard that the government had oppressed the workers, I supressed my angers.
 
@@ -517,6 +530,11 @@ Things that are profitable make money or are beneficial in other ways. Businesse
 > note: a medical problem is in contrast to surgical problem.
 
 ## Q
+### reluctantly
+* She reluctantly agreed to step down as managing director.
+* Reluctandly, he did what I asked.
+* He was most *indignant* that we had been allowed to come this far and reluctantly admitted that our pass was good.
+
 ### retraction
 A newspaper editor might publish a retraction after a badly reported story is prined, and astronomers who discover a new star might announce a retraction after realizing it was just a smudge on the lens of their telescope.
 
@@ -552,6 +570,12 @@ Recursion is the process of repeating items in a self-similar way. Recursion can
 : to completely change something so that it is much better
 - Newton's discoveries revolutionized physics.
 
+### rigorous
+If you are rigorous when you do something, you do it extremely carefully and precisely.
+* Our teacher is so rigorous that he seldom *lets up on* us.
+* We subjected the date to a rigorous analysis.
+
+The Latin root for rigorous is *rigor*, meaning "stiffness." This might remind you of *rigor mortis*, the stiffening of a body after death. This is a good, if creepy, way of remembering the meaning of rigorous: rigorous people are stiff and unbending about the standards of their work.
 
 
 ## S
@@ -583,6 +607,25 @@ If your best friend ignores you all day, your heart shatters; and if you stumble
 
 ### springiness
 > : the elasticity of something that can be stretched and returns to its original length
+
+### so that
+- I'll go by car so that I can take more luggage.
+- I'll post the CD today so that you (will) get it by the weekend.
+### in order that
+- In order that you can sign the form, please print it out and mail it to this address.
+- We will send you a reminder in order that you arrive on time for your appointment.
+
+> Note. So that (but not in order that) can also mean 'with the result that'
+- The birds return every year around March, so that April is a good time to see them.
+
+### so ... that and such ... that
+- The meteor storm was so beautiful that we watched it all night.
+- The meteor storm passed so quickly that it went by in one weak.
+- It was so amazing that we'll never forget.
+
+- It was such a beautiful meteor storm that we watched it all night.
+- It was such a quick meteor storm that it passed by in one week.
+- It was such an amazing sight that we'll never forget it.
 
 ### sophisticated &emsp; /sə'fɪstɪkeɪtɪd/
 If something is sophisticated, it's complicated and intricate.
@@ -673,8 +716,13 @@ But it no longer happens or is no longer true now.
 Doing something willingly or voluntarily is doing it of your own volition.
 - The singer wished it to be known that he had left the band (out) of his own volition.
 
+### whereas
+- Wise men love truth, whereas fools shun it.
+- He is a globalist, whereas we are nationalists who will put our country first.
+- Death is so *final*, whereas life is so full of possibilities.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTIxNzE3NCwxMDE3MTk0Nzg1LC04NT
-MyNTQ3ODgsMzc0MjgwMzg5LC0xODMxODc3OTIzLDg5NTU4NzMy
-NSwtMTQzNzcxMzIwNiwxNjk0MDQwNTgsMTM5MjEyMjQxOF19
+eyJoaXN0b3J5IjpbLTg2MzAxNDQ1LDEwMTcxOTQ3ODUsLTg1Mz
+I1NDc4OCwzNzQyODAzODksLTE4MzE4Nzc5MjMsODk1NTg3MzI1
+LC0xNDM3NzEzMjA2LDE2OTQwNDA1OCwxMzkyMTIyNDE4XX0=
 -->
